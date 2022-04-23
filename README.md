@@ -1,6 +1,21 @@
 # Maturitka formalitka
 Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k maturitě 2022
 
+## Task-list
+- [x] Udělat README.md
+- [ ] Beta release
+- [ ] Bug fixing
+- [ ] Final release
+
+
+## Orientační navigace
+<ul>
+    <li>Maturitní četba</li>
+    <li>Operační systémy a sítě (PSS)</li>
+    <li>Programovaní OOP(PRG)</li>
+</ul>
+
+
 
 ## Orientační navigace
 <ul>
