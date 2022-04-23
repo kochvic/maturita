@@ -11,12 +11,12 @@ Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k mat
 
 ## Orientační navigace
 
-    Český jazyk
+    [Český jazyk]()
     Anglický jazyk
     Operační systémy a sítě (PSS)
-    Programovaní OOP 
+    Programovaní OOP
 
-[cestina](## Témata k ústní maturitní zkoušce z Českého jazyka)
+## Témata k ústní maturitní zkoušce z Českého jazyka
 
 #### Světová a česká literatura do konce 18. století (min. 2 díla)
 <ol>
