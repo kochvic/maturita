@@ -11,7 +11,7 @@ Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k mat
 
 ## Orientační navigace
 
-    [Český jazyk](#témata-k-ústní-maturitní-zkoušce-z-českého-jazyka)
+    [Český jazyk](https://github.com/Lynder063/maturita/blob/main/README.md#t%C3%A9mata-k-%C3%BAstn%C3%AD-maturitn%C3%AD-zkou%C5%A1ce-z-%C4%8Desk%C3%A9ho-jazyka)
     Anglický jazyk
     Operační systémy a sítě (PSS)
     Programovaní OOP
