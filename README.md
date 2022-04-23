@@ -9,7 +9,7 @@ Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k mat
     <li>Programovaní OOP(PRG)</li>
 </ul>
 
-### Maturitní četba
+## Maturitní četba
 
 #### Světová a česká literatura do konce 18. století (min. 2 díla)
 <ol>
@@ -48,7 +48,7 @@ Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k mat
   <li>Ladislav Fuks | Spalovač mrtvol</li>
   </ol>
 
-###  Témata k ústní maturitní zkoušce Operační systémy a správa sítí:
+## Témata k ústní maturitní zkoušce Operační systémy a správa sítí:
 
   1) Hardware — základní deska, cpu
   2) Hardware — HDD, SSD, M.2, operační paměť, přenositelná media
