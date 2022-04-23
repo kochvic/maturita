@@ -66,6 +66,7 @@ Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k mat
   </ol>
 
 ## Témata k ústní maturitní zkoušce z Anglického jazyka
+  <pre>
     1. The United Kingdom
     2. London
     3. Places of interest in the UK
@@ -86,9 +87,10 @@ Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k mat
     18. Anglo-American Literature
     19. Anglo-American Famous Personalities
     20. Czech Famous Personalities
+  </pre>
 
 ## Témata k ústní maturitní zkoušce Operační systémy a správa sítí:
-
+  <pre>
   1) Hardware — základní deska, CPU
   2) Hardware — HDD, SSD, M.2, operační paměť, přenositelná media
   3) Hardware — stavba PC, periferní zařízení
@@ -113,9 +115,9 @@ Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k mat
   22) Optimalizace www stránek — hlavní pravidla
   23) Kaskádové styly — připojení k souborům, vlastnosti CSS, rozbor na příkladech
   24) Vlastnosti CSS3 — přehled, rozbor na příkladech
-
+  </pre>
 ## Témata k ústní maturitní zkoušce Programování a vývoj aplikací
-
+<pre>
   1) Definice algoritmů, formy zápisu, asymptotická složitost
   2) Druhy programovacích jazyků, syntaxe, sémantika, zdrojový kód, kompilátor
   3) Základní datové typy, deklarace, inicializace, přiřazení, operátor sizeof, mat. operace
@@ -140,3 +142,4 @@ Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k mat
   22) SOL - návrh tabulky, základní operace, primární klíč, cizí klíč
   23) SOL - agregační fce, spojení tabulek, poddotazy, skupiny (GROUP BY, HAVING, aj.)
   24) Skriptovací jazyk - PHP
+  </pre>
