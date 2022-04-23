@@ -83,6 +83,7 @@ Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k mat
 
 
 ## Témata k ústní maturitní zkoušce Operační systémy a správa sítí:
+
 <pre>
   1. Hardware — základní deska, CPU
   2. Hardware — HDD, SSD, M.2, operační paměť, přenositelná media
