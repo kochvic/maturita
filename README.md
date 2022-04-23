@@ -49,28 +49,28 @@ Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k mat
 
 ####  Témata k ústní maturitní zkoušce Operační systémy a správa sítí:
 <ol>
-  Hardware — základní deska, cpu
-  Hardware — HDD, SSD, M.2, operační paměť, přenositelná media
-  Hardware — stavba PC, periferní zařízení
-  Teorie OS — funkce OS, typy OS
-  Druhy softwaru a typy dat, ztrátová a beztrátová komprese
-  MS Windows — správa uživatelů, ACL a pracovní skupina
-  GNU/Linux — historie, vývoj, distribuce, kernel
-  GNU/Linux — správa uživatelů, procesů a nastavování oprávnění k souborům a složkám
-  GNU/Linux — instalace a správa aplikací, balíčkovací systémy, konfigurace síťového rozhraní
-  Bezpečnost — malware, firewall, certifikáty, šifrování
-  Počítačové sítě — základní pojmy a topologie
-  Počítačové sítě — pasivní a aktivní prvky sítě
-  Počítačové sítě — síťové standardy
-  Počítačové sítě — vrstvový model a architektura
-  IPv4, subsíťování, supersíťování
-  Bezdrátové sítě (pásma, standardy, BSS, SSID, WPS, zabezpečení)
-  DHCP
-  DNS
-  Serverové služby (AD/LDAP, webový server, SOL server)
-  Jazyk HTML — vývoj, možnosti, prohlížeče, typy souborů
-  Jazyk HTML — přehled elementů a jejich atributů, rozbor na příkladech
-  Optimalizace www stránek — hlavní pravidla
-  Kaskádové styly — připojení k souborům, vlastnosti CSS, rozbor na příkladech
-  Vlastnosti CSS3 — přehled, rozbor na příkladech
+  <li>Hardware — základní deska, cpu</li>
+  <li>Hardware — HDD, SSD, M.2, operační paměť, přenositelná media</li>
+  <li>Hardware — stavba PC, periferní zařízení</li>
+  <li>Teorie OS — funkce OS, typy OS</li>
+  <li>Druhy softwaru a typy dat, ztrátová a beztrátová komprese</li>
+  <li>MS Windows — správa uživatelů, ACL a pracovní skupina</li>
+  <li>GNU/Linux — historie, vývoj, distribuce, kernel</li>
+  <li>GNU/Linux — správa uživatelů, procesů a nastavování oprávnění k souborům a složkám</li>
+  <li>GNU/Linux — instalace a správa aplikací, balíčkovací systémy, konfigurace síťového rozhraní</li>
+  <li>Bezpečnost — malware, firewall, certifikáty, šifrování</li>
+  <li>Počítačové sítě — základní pojmy a topologie</li>
+  <li>Počítačové sítě — pasivní a aktivní prvky sítě</li>
+  <li>Počítačové sítě — síťové standardy</li>
+  <li>Počítačové sítě — vrstvový model a architektura</li>
+  <li>IPv4, subsíťování, supersíťování</li>
+  <li>Bezdrátové sítě (pásma, standardy, BSS, SSID, WPS, zabezpečení)</li>
+  <li>DHCP</li>
+  <li>DNS</li>
+  <li>Serverové služby (AD/LDAP, webový server, SOL server)</li>
+  <li>Jazyk HTML — vývoj, možnosti, prohlížeče, typy souborů</li>
+  <li>Jazyk HTML — přehled elementů a jejich atributů, rozbor na příkladech</li>
+  <li>Optimalizace www stránek — hlavní pravidla</li>
+  <li>Kaskádové styly — připojení k souborům, vlastnosti CSS, rozbor na příkladech</li>
+  <li>Vlastnosti CSS3 — přehled, rozbor na příkladech</li>
 </ol>
