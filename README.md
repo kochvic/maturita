@@ -65,7 +65,7 @@ Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k mat
 
 ## Témata k ústní maturitní zkoušce Operační systémy a správa sítí:
 
-  1) Hardware — základní deska, cpu
+  >1) Hardware — základní deska, cpu
   2) Hardware — HDD, SSD, M.2, operační paměť, přenositelná media
   3) Hardware — stavba PC, periferní zařízení
   4) Teorie OS — funkce OS, typy OS
@@ -88,4 +88,4 @@ Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k mat
   21) Jazyk HTML — přehled elementů a jejich atributů, rozbor na příkladech
   22) Optimalizace www stránek — hlavní pravidla
   23) Kaskádové styly — připojení k souborům, vlastnosti CSS, rozbor na příkladech
-  24) Vlastnosti CSS3 — přehled, rozbor na příkladech
+  >24) Vlastnosti CSS3 — přehled, rozbor na příkladech
