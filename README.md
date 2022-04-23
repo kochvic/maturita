@@ -11,7 +11,7 @@ Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k mat
 
 ## Orientační navigace
 
-    [Český jazyk]()
+    [Český jazyk](#témata-k-ústní-maturitní-zkoušce-z-českého-jazyka)
     Anglický jazyk
     Operační systémy a sítě (PSS)
     Programovaní OOP
