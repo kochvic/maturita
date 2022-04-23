@@ -1,4 +1,4 @@
-# maturita
+# Maturitka formalitka
 Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k maturitě 2022
 
 ## Maturitní četba
@@ -8,7 +8,7 @@ Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k mat
   <li>Moliére | Lakomec </li>
   <li>Lope de Vega | Ovčí pramen</li>
  </ol>
- 
+
 #### Světová a česká literatura 19. století (min. 3 díla)
  <ol>
  <li>Karel Havlíček Borovský | Tyrolské elegie</li>
@@ -30,7 +30,7 @@ Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k mat
   </ol>
 
 #### Česká literatura 20. a 21. století (min. 5 děl)
-  
+
   <ol>
   <li>Karel Poláček | Bylo nás pět</li>
   <li>Viktor Dyk | Krysař</li>
@@ -39,5 +39,3 @@ Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k mat
   <li>Karel Čapek | R.U.R</li>
   <li>Ladislav Fuks | Spalovač mrtvol</li>
   </ol>
-
-
