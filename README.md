@@ -1,6 +1,7 @@
 # Maturitka formalitka
 Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k maturitě 2022
 
+### Navigace dokumentem
 <ul>
     <li>Maturitní četba</li>
     <li>Operační systémy a sítě (PSS)</li>
@@ -45,3 +46,31 @@ Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k mat
   <li>Karel Čapek | R.U.R</li>
   <li>Ladislav Fuks | Spalovač mrtvol</li>
   </ol>
+
+####  Témata k ústní maturitní zkoušce Operační systémy a správa sítí:
+<ol>
+  Hardware — základní deska, cpu
+  Hardware — HDD, SSD, M.2, operační paměť, přenositelná media
+  Hardware — stavba PC, periferní zařízení
+  Teorie OS — funkce OS, typy OS
+  Druhy softwaru a typy dat, ztrátová a beztrátová komprese
+  MS Windows — správa uživatelů, ACL a pracovní skupina
+  GNU/Linux — historie, vývoj, distribuce, kernel
+  GNU/Linux — správa uživatelů, procesů a nastavování oprávnění k souborům a složkám
+  GNU/Linux — instalace a správa aplikací, balíčkovací systémy, konfigurace síťového rozhraní
+  Bezpečnost — malware, firewall, certifikáty, šifrování
+  Počítačové sítě — základní pojmy a topologie
+  Počítačové sítě — pasivní a aktivní prvky sítě
+  Počítačové sítě — síťové standardy
+  Počítačové sítě — vrstvový model a architektura
+  IPv4, subsíťování, supersíťování
+  Bezdrátové sítě (pásma, standardy, BSS, SSID, WPS, zabezpečení)
+  DHCP
+  DNS
+  Serverové služby (AD/LDAP, webový server, SOL server)
+  Jazyk HTML — vývoj, možnosti, prohlížeče, typy souborů
+  Jazyk HTML — přehled elementů a jejich atributů, rozbor na příkladech
+  Optimalizace www stránek — hlavní pravidla
+  Kaskádové styly — připojení k souborům, vlastnosti CSS, rozbor na příkladech
+  Vlastnosti CSS3 — přehled, rozbor na příkladech
+</ol>
