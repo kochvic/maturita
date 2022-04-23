@@ -9,10 +9,10 @@ Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k mat
 - [ ] Final release
 
 ## Orientační navigace
-  [Český jazyk](#témata-k-ústní-maturitní-zkoušce-z-českého-jazyka)
-  [Anglický jazyk](#témata-k-ústní-maturitní-zkoušce-z-českého-jazyka)
-  [Operační systémy a sítě](#témata-k-ústní-maturitní-zkoušce-operační-systémy-a-správa-sítí)
-  [Programovaní OOP](#témata-k-ústní-maturitní-zkoušce-programování-a-vývoj-aplikací)
+  [Český jazyk](#témata-k-ústní-maturitní-zkoušce-z-českého-jazyka)<br>
+  [Anglický jazyk](#témata-k-ústní-maturitní-zkoušce-z-českého-jazyka)<br>
+  [Operační systémy a sítě](#témata-k-ústní-maturitní-zkoušce-operační-systémy-a-správa-sítí)<br>
+  [Programovaní OOP](#témata-k-ústní-maturitní-zkoušce-programování-a-vývoj-aplikací)<br>
 
 ## Témata k ústní maturitní zkoušce z Českého jazyka:
 
