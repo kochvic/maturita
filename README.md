@@ -1,7 +1,8 @@
 # Maturitka formalitka
 Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k maturitě 2022
 
-### Navigace dokumentem
+
+## Orientační navigace
 <ul>
     <li>Maturitní četba</li>
     <li>Operační systémy a sítě (PSS)</li>
@@ -47,30 +48,29 @@ Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k mat
   <li>Ladislav Fuks | Spalovač mrtvol</li>
   </ol>
 
-####  Témata k ústní maturitní zkoušce Operační systémy a správa sítí:
-<ol>
-  <li>Hardware — základní deska, cpu</li>
-  <li>Hardware — HDD, SSD, M.2, operační paměť, přenositelná media</li>
-  <li>Hardware — stavba PC, periferní zařízení</li>
-  <li>Teorie OS — funkce OS, typy OS</li>
-  <li>Druhy softwaru a typy dat, ztrátová a beztrátová komprese</li>
-  <li>MS Windows — správa uživatelů, ACL a pracovní skupina</li>
-  <li>GNU/Linux — historie, vývoj, distribuce, kernel</li>
-  <li>GNU/Linux — správa uživatelů, procesů a nastavování oprávnění k souborům a složkám</li>
-  <li>GNU/Linux — instalace a správa aplikací, balíčkovací systémy, konfigurace síťového rozhraní</li>
-  <li>Bezpečnost — malware, firewall, certifikáty, šifrování</li>
-  <li>Počítačové sítě — základní pojmy a topologie</li>
-  <li>Počítačové sítě — pasivní a aktivní prvky sítě</li>
-  <li>Počítačové sítě — síťové standardy</li>
-  <li>Počítačové sítě — vrstvový model a architektura</li>
-  <li>IPv4, subsíťování, supersíťování</li>
-  <li>Bezdrátové sítě (pásma, standardy, BSS, SSID, WPS, zabezpečení)</li>
-  <li>DHCP</li>
-  <li>DNS</li>
-  <li>Serverové služby (AD/LDAP, webový server, SOL server)</li>
-  <li>Jazyk HTML — vývoj, možnosti, prohlížeče, typy souborů</li>
-  <li>Jazyk HTML — přehled elementů a jejich atributů, rozbor na příkladech</li>
-  <li>Optimalizace www stránek — hlavní pravidla</li>
-  <li>Kaskádové styly — připojení k souborům, vlastnosti CSS, rozbor na příkladech</li>
-  <li>Vlastnosti CSS3 — přehled, rozbor na příkladech</li>
-</ol>
+###  Témata k ústní maturitní zkoušce Operační systémy a správa sítí:
+
+  1) Hardware — základní deska, cpu
+  2) Hardware — HDD, SSD, M.2, operační paměť, přenositelná media
+  3) Hardware — stavba PC, periferní zařízení
+  4) Teorie OS — funkce OS, typy OS
+  5) Druhy softwaru a typy dat, ztrátová a beztrátová komprese
+  6) MS Windows — správa uživatelů, ACL a pracovní skupina
+  7) GNU/Linux — historie, vývoj, distribuce, kernel
+  8) GNU/Linux — správa uživatelů, procesů a nastavování oprávnění k souborům a složkám
+  9) GNU/Linux — instalace a správa aplikací, balíčkovací systémy, konfigurace síťového rozhraní
+  10) Bezpečnost — malware, firewall, certifikáty, šifrování
+  11) Počítačové sítě — základní pojmy a topologie
+  12) Počítačové sítě — pasivní a aktivní prvky sítě
+  13) Počítačové sítě — síťové standardy
+  14) Počítačové sítě — vrstvový model a architektura
+  15) IPv4, subsíťování, supersíťování
+  16) Bezdrátové sítě (pásma, standardy, BSS, SSID, WPS, zabezpečení)
+  17) DHCP
+  18) DNS
+  19) Serverové služby (AD/LDAP, webový server, SOL server)
+  20) Jazyk HTML — vývoj, možnosti, prohlížeče, typy souborů
+  21) Jazyk HTML — přehled elementů a jejich atributů, rozbor na příkladech
+  22) Optimalizace www stránek — hlavní pravidla
+  23) Kaskádové styly — připojení k souborům, vlastnosti CSS, rozbor na příkladech
+  24) Vlastnosti CSS3 — přehled, rozbor na příkladech
