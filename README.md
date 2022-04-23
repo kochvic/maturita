@@ -1,7 +1,13 @@
 # Maturitka formalitka
 Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k maturitě 2022
 
-## Maturitní četba
+<ul>
+    <li>Maturitní četba</li>
+    <li>Operační systémy a sítě (PSS)</li>
+    <li>Programovaní OOP(PRG)</li>
+</ul>
+
+### Maturitní četba
 
 #### Světová a česká literatura do konce 18. století (min. 2 díla)
 <ol>
