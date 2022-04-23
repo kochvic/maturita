@@ -11,7 +11,8 @@ Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k mat
 
 ## Orientační navigace
 <ul>
-    <li>Maturitní četba</li>
+    <li>Český jazyk</li>
+    <li>Anglický jazyk</li>
     <li>Operační systémy a sítě (PSS)</li>
     <li>Programovaní OOP(PRG)</li>
 </ul>
@@ -63,6 +64,28 @@ Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k mat
   <li>Karel Čapek | R.U.R</li>
   <li>Ladislav Fuks | Spalovač mrtvol</li>
   </ol>
+
+## Témata k ústní maturitní zkoušce z Anglického jazyka
+    1. The United Kingdom
+    2. London
+    3. Places of interest in the UK
+    4. Australia & New Zealand
+    5. Canada
+    6. The USA
+    7. Cities in the USA
+    8. Feastdays, holidays and festivals in English-speaking countries
+    9. The Czech Republic
+    10. Prague
+    11. Places of interest in the Czech Republic
+    12. Feastdays, holidays and festivals in the Czech Republic
+    13. The Czech Republic- My Region
+    14. The Czech Republic and the Media in the Czech Republic
+    15. Czech and British cuisine
+    16. Computers and Data communication
+    17. New ways of social communication
+    18. Anglo-American Literature
+    19. Anglo-American Famous Personalities
+    20. Czech Famous Personalities
 
 ## Témata k ústní maturitní zkoušce Operační systémy a správa sítí:
 
@@ -117,25 +140,3 @@ Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k mat
   22) SOL - návrh tabulky, základní operace, primární klíč, cizí klíč
   23) SOL - agregační fce, spojení tabulek, poddotazy, skupiny (GROUP BY, HAVING, aj.)
   24) Skriptovací jazyk - PHP
-
-## Témata k ústní maturitní zkoušce z Anglického jazyka
-  1. The United Kingdom
-  2. London
-  3. Places of interest in the UK
-  4. Australia & New Zealand
-  5. Canada
-  6. The USA
-  7. Cities in the USA
-  8. Feastdays, holidays and festivals in English-speaking countries
-  9. The Czech Republic
-  10. Prague
-  11. Places of interest in the Czech Republic
-  12. Feastdays, holidays and festivals in the Czech Republic
-  13. The Czech Republic- My Region
-  14. The Czech Republic and the Media in the Czech Republic
-  15. Czech and British cuisine
-  16. Computers and Data communication
-  17. New ways of social communication
-  18. Anglo-American Literature
-  19. Anglo-American Famous Personalities
-  20. Czech Famous Personalities
