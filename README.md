@@ -4,7 +4,7 @@ Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k mat
 ## Task-list
 - [x] Udělat README.md
 - [x] Kontrola gramatiky v README.md
-- [ ] Beta release
+- [x] Beta release
 - [ ] Bug fixing
 - [ ] Final release
 
