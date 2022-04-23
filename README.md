@@ -8,15 +8,13 @@ Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k mat
 - [ ] Bug fixing
 - [ ] Final release
 
-[Český jazyk](#témata-k-ústní-maturitní-zkoušce-z-českého-jazyka)
 ## Orientační navigace
+  [Český jazyk](#témata-k-ústní-maturitní-zkoušce-z-českého-jazyka)
+  [Anglický jazyk](#témata-k-ústní-maturitní-zkoušce-z-českého-jazyka)
+  [Operační systémy a sítě](#témata-k-ústní-maturitní-zkoušce-operační-systémy-a-správa-sítí)
+  [Programovaní OOP](#témata-k-ústní-maturitní-zkoušce-programování-a-vývoj-aplikací)
 
-
-    Anglický jazyk
-    Operační systémy a sítě (PSS)
-    Programovaní OOP
-
-## Témata k ústní maturitní zkoušce z Českého jazyka
+## Témata k ústní maturitní zkoušce z Českého jazyka:
 
 #### Světová a česká literatura do konce 18. století (min. 2 díla)
 <ol>
@@ -55,6 +53,35 @@ Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k mat
   <li>Ladislav Fuks | Spalovač mrtvol</li>
   </ol>
 
+## Témata k ústní maturitní zkoušce z Anglického Jazyka:
+  <pre>
+    1. Hardware — základní deska, CPU
+    2. Hardware — HDD, SSD, M.2, operační paměť, přenositelná media
+    3. Hardware — stavba PC, periferní zařízení
+    4. Teorie OS — funkce OS, typy OS
+    5. Druhy softwaru a typy dat, ztrátová a beztrátová komprese
+    6. MS Windows — správa uživatelů, ACL a pracovní skupina
+    7. GNU/Linux — historie, vývoj, distribuce, kernel
+    8. GNU/Linux — správa uživatelů, procesů a nastavování oprávnění k souborům a složkám
+    9. GNU/Linux — instalace a správa aplikací, balíčkovací systémy, konfigurace síťového rozhraní
+    10. Bezpečnost — malware, firewall, certifikáty, šifrování
+    11. Počítačové sítě — základní pojmy a topologie
+    12. Počítačové sítě — pasivní a aktivní prvky sítě
+    13. Počítačové sítě — síťové standardy
+    14. Počítačové sítě — vrstvový model a architektura
+    15. IPv4, subsíťování, supersíťování
+    16. Bezdrátové sítě (pásma, standardy, BSS, SSID, WPS, zabezpečení)
+    17. DHCP
+    18. DNS
+    19. Serverové služby (AD/LDAP, webový server, SOL server)
+    20. Jazyk HTML — vývoj, možnosti, prohlížeče, typy souborů
+    21. Jazyk HTML — přehled elementů a jejich atributů, rozbor na příkladech
+    22. Optimalizace www stránek — hlavní pravidla
+    23. Kaskádové styly — připojení k souborům, vlastnosti CSS, rozbor na příkladech
+    24. Vlastnosti CSS3 — přehled, rozbor na příkladech
+    </pre>
+
+
 ## Témata k ústní maturitní zkoušce Operační systémy a správa sítí:
 <pre>
   1. Hardware — základní deska, CPU
@@ -82,7 +109,7 @@ Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k mat
   23. Kaskádové styly — připojení k souborům, vlastnosti CSS, rozbor na příkladech
   24. Vlastnosti CSS3 — přehled, rozbor na příkladech
   </pre>
-  ## Témata k ústní maturitní zkoušce Programování a vývoj aplikací
+## Témata k ústní maturitní zkoušce Programování a vývoj aplikací
 <pre>
   1. Definice algoritmů, formy zápisu, asymptotická složitost
   2. Druhy programovacích jazyků, syntaxe, sémantika, zdrojový kód, kompilátor
