@@ -8,10 +8,10 @@ Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k mat
 - [ ] Bug fixing
 - [ ] Final release
 
-
+[Český jazyk](#témata-k-ústní-maturitní-zkoušce-z-českého-jazyka)
 ## Orientační navigace
 
-    [#témata-k-ústní-maturitní-zkoušce-z-českého-jazyka](Český jazy)
+
     Anglický jazyk
     Operační systémy a sítě (PSS)
     Programovaní OOP
