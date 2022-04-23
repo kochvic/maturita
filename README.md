@@ -10,21 +10,11 @@ Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k mat
 
 
 ## Orientační navigace
-<ul>
-    <li>Český jazyk</li>
-    <li>Anglický jazyk</li>
-    <li>Operační systémy a sítě (PSS)</li>
-    <li>Programovaní OOP(PRG)</li>
-</ul>
 
-
-
-## Orientační navigace
-<ul>
-    <li>Maturitní četba</li>
-    <li>Operační systémy a sítě (PSS)</li>
-    <li>Programovaní OOP(PRG)</li>
-</ul>
+    [#témate](Český jazyk)
+    []Anglický jazyk
+    []Operační systémy a sítě (PSS)
+    []Programovaní OOP 
 
 ## Témata k ústní maturitní zkoušce z Českého jazyka
 
@@ -65,30 +55,6 @@ Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k mat
   <li>Ladislav Fuks | Spalovač mrtvol</li>
   </ol>
 
-## Témata k ústní maturitní zkoušce z Anglického jazyka
-  <pre>
-    1. The United Kingdom
-    2. London
-    3. Places of interest in the UK
-    4. Australia & New Zealand
-    5. Canada
-    6. The USA
-    7. Cities in the USA
-    8. Feastdays, holidays and festivals in English-speaking countries
-    9. The Czech Republic
-    10. Prague
-    11. Places of interest in the Czech Republic
-    12. Feastdays, holidays and festivals in the Czech Republic
-    13. The Czech Republic- My Region
-    14. The Czech Republic and the Media in the Czech Republic
-    15. Czech and British cuisine
-    16. Computers and Data communication
-    17. New ways of social communication
-    18. Anglo-American Literature
-    19. Anglo-American Famous Personalities
-    20. Czech Famous Personalities
-  </pre>
-
 ## Témata k ústní maturitní zkoušce Operační systémy a správa sítí:
 <pre>
   1. Hardware — základní deska, CPU
@@ -116,7 +82,7 @@ Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k mat
   23. Kaskádové styly — připojení k souborům, vlastnosti CSS, rozbor na příkladech
   24. Vlastnosti CSS3 — přehled, rozbor na příkladech
   </pre>
-## Témata k ústní maturitní zkoušce Programování a vývoj aplikací
+  ## Témata k ústní maturitní zkoušce Programování a vývoj aplikací
 <pre>
   1. Definice algoritmů, formy zápisu, asymptotická složitost
   2. Druhy programovacích jazyků, syntaxe, sémantika, zdrojový kód, kompilátor
