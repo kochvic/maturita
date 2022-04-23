@@ -110,5 +110,32 @@ Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k mat
   23. Kaskádové styly — připojení k souborům, vlastnosti CSS, rozbor na příkladech
   24. Vlastnosti CSS3 — přehled, rozbor na příkladech
   </pre>
+
+
 ## Témata k ústní maturitní zkoušce Programování a vývoj aplikací
-<pre>
+  <pre>
+    1. Definice algoritmů, formy zápisu, asymptotická složitost
+    2. Druhy programovacích jazyků, syntaxe, sémantika, zdrojový kód, kompilátor
+    3. Základní datové typy, deklarace, inicializace, přiřazení, operátor sizeof, mat. operace
+    4. Podmíněné příkazy
+    5. Cykly
+    6. Složené datové typy (pole, struktura)
+    7. Funkce, předávání parametrů
+    8. Ukazatele a dynamická alokace paměti
+    9. Embedded systémy a Arduino
+    10. OOP - třída, objekt a programovací jazyk
+    11. Vlastnosti OOP — dědičnost a polymorfismus
+    12. Definice tříd (instanční a statické datové členy, metody, zapouzdření, konstruktory)
+    13. Kolekce v jazyce JAVA
+    14. Tvorba GUI- principy JavaFX
+    15. Správci rozložení (FlowPane, GridPane, VBox, aj.)
+    16. JavaFX Node — Label, Button, TogeleButton, Textfield, aj.
+    17. JavaFX kontejnery (MenuBar, Menu, ContextMenu, TableView, WebView a.j.)
+    18. Zpracování událostí (MouseEvent, KeyEvent, ActionEvent, WindowEvent, aj.)
+    19. Výjimky
+    20. Vlákna
+    21. Fáze vývoje aplikace
+    22. SOL - návrh tabulky, základní operace, primární klíč, cizí klíč
+    23. SOL - agregační fce, spojení tabulek, poddotazy, skupiny (GROUP BY, HAVING, aj.)
+    24. Skriptovací jazyk - PHP
+    </pre>
