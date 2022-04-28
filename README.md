@@ -11,6 +11,7 @@ Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k mat
 
 ## Orientační navigace
   [Český jazyk](#témata-k-ústní-maturitní-zkoušce-z-českého-jazyka)<br>
+  [Příklady k ČJ](#příklady-k-ústní-maturitní-zkoušce-z-českého-jazyka)<br>
   [Anglický jazyk](#témata-k-ústní-maturitní-zkoušce-z-českého-jazyka)<br>
   [Operační systémy a sítě](#témata-k-ústní-maturitní-zkoušce-operační-systémy-a-správa-sítí)<br>
   [Programovaní OOP](#témata-k-ústní-maturitní-zkoušce-programování-a-vývoj-aplikací)<br>
@@ -53,6 +54,9 @@ Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k mat
   <li>Karel Čapek | R.U.R</li>
   <li>Ladislav Fuks | Spalovač mrtvol</li>
   </ol>
+  
+## Příklady k ústní maturitní zkoušce z Českého jazyka:
+  
 
 ## Témata k ústní maturitní zkoušce z Anglického Jazyka:
   <pre>
