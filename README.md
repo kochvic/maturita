@@ -4,7 +4,7 @@ Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k mat
 ## Task-list
 - [x] Udělat README.md
 - [x] Kontrola gramatiky v README.md
-- [ ] Přidaní obrázků k ČJ 
+- [ ] Přidaní obrázků k ČJ
 - [ ] Beta release
 - [ ] Bug fixing
 - [ ] Final release
@@ -54,9 +54,9 @@ Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k mat
   <li>Karel Čapek | R.U.R</li>
   <li>Ladislav Fuks | Spalovač mrtvol</li>
   </ol>
-  
+
 ## Příklady k ústní maturitní zkoušce z Českého jazyka:
-   [Bylo nás pět](maturita/Bylo nás pět.png)
+   ![Bílá nemoc](bila_nemoc.png)
 
 ## Témata k ústní maturitní zkoušce z Anglického Jazyka:
   <pre>
