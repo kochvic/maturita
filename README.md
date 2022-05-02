@@ -56,7 +56,7 @@ Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k mat
   </ol>
 
 ## Příklady k ústní maturitní zkoušce z Českého jazyka:
-   ![Bílá nemoc](bila_nemoc.png)
+   ![Bílá nemoc](maturita/bila_nemoc.png)
 
 ## Témata k ústní maturitní zkoušce z Anglického Jazyka:
   <pre>
