@@ -26,7 +26,7 @@ Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k mat
  
   [Karel Havlíček Borovský | Tyrolské elegie](cestina/tyrolske_elegie.md)<br>
   [Karel Havlíček Borovský | Křest svatého Vladimíra](cestina/kres_sv_vladimira.md)<br>
-  Alois Jirásek | Lucerna<br>
+  [Alois Jirásek | Lucerna](cestina/lucerna.md)<br>
   Edgar Allan Poe | Havran<br>
   Guy de Maupassant | Kulička<br>
   F.M. Dostojevskij | Zločin a trest<br>
@@ -51,9 +51,6 @@ Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k mat
   <li>Karel Čapek | R.U.R</li>
   <li>Ladislav Fuks | Spalovač mrtvol</li>
   </ol>
-
-## Příklady k ústní maturitní zkoušce z Českého jazyka:
-   ![Bílá nemoc](bila_nemoc.png)
 
 ## Témata k ústní maturitní zkoušce z Anglického Jazyka:
   <pre>
