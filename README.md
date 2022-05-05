@@ -23,14 +23,13 @@ Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k mat
    [Lope de Vega | Ovčí pramen](cestina/ovci_pramen.md)<br>
 
 #### Světová a česká literatura 19. století (min. 3 díla)
- <ol>
- <li>Karel Havlíček Borovský | Tyrolské elegie</li>
-  <li>Karel Havlíček Borovský | Křest svatého Vladimíra</li>
-  <li>Alois Jirásek | Lucerna</li>
-  <li>Edgar Allan Poe | Havran</li>
-  <li>Guy de Maupassant | Kulička</li>
-  <li>F.M. Dostojevskij | Zločin a trest</li>
-  </ol>
+ 
+  [Karel Havlíček Borovský | Tyrolské elegie](cestina/tyrolske_elegie.md)
+  [Karel Havlíček Borovský | Křest svatého Vladimíra](cestina/)
+  [Alois Jirásek | Lucerna](cestina/)
+  [Edgar Allan Poe | Havran](cestina/)
+  [Guy de Maupassant | Kulička](cestina/)
+  [F.M. Dostojevskij | Zločin a trest](cestina/)
 
 #### Světová literatura 20. a 21. století (min. 4 díla)
   <ol>
