@@ -4,10 +4,6 @@ Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k mat
 ## Task-list
 - [x] Udělat README.md
 - [x] Kontrola gramatiky v README.md
-- [ ] Přidaní obrázků k ČJ
-- [ ] Beta release
-- [ ] Bug fixing
-- [ ] Final release
 
 ## Orientační navigace
   [Český jazyk](#témata-k-ústní-maturitní-zkoušce-z-českého-jazyka)<br>
