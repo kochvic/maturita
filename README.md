@@ -16,7 +16,7 @@ Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k mat
 
 #### Světová a česká literatura do konce 18. století (min. 2 díla)
 <ol>
-  <li>[Moliére | Lakomec](cestina/lakomec.md) </li>
+  <li>[Moliére | Lakomec](maturita/cestina/lakomec.md) </li>
   <li>Lope de Vega | Ovčí pramen</li>
  </ol>
 
