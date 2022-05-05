@@ -1,4 +1,4 @@
-# TKřest sv. Vladimíra
+# Křest sv. Vladimíra
 ## Karel Havlíček Borovský
 
 ### Děj
@@ -83,6 +83,3 @@
          - Borovského dílo popisuje jeho cestu do rakouského Brixenu v devíti zpěvech
          - V prvním zpěvu Borovský promlouvá k měsici v Brixenu
          - Druhý zpěv vypráví o "náštěvě" policajtů. Dvě hodiny po půlnboci přicházejí s dopisem z Vídně od pana Bacha
-
-![cestina/obrazky/krest_sv_vladimíra.jpg]()
-
