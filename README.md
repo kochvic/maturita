@@ -56,30 +56,26 @@ Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k mat
 
 ## Témata k ústní maturitní zkoušce z Anglického Jazyka:
   <pre>
-    1. Hardware — základní deska, CPU
-    2. Hardware — HDD, SSD, M.2, operační paměť, přenositelná media
-    3. Hardware — stavba PC, periferní zařízení
-    4. Teorie OS — funkce OS, typy OS
-    5. Druhy softwaru a typy dat, ztrátová a beztrátová komprese
-    6. MS Windows — správa uživatelů, ACL a pracovní skupina
-    7. GNU/Linux — historie, vývoj, distribuce, kernel
-    8. GNU/Linux — správa uživatelů, procesů a nastavování oprávnění k souborům a složkám
-    9. GNU/Linux — instalace a správa aplikací, balíčkovací systémy, konfigurace síťového rozhraní
-    10. Bezpečnost — malware, firewall, certifikáty, šifrování
-    11. Počítačové sítě — základní pojmy a topologie
-    12. Počítačové sítě — pasivní a aktivní prvky sítě
-    13. Počítačové sítě — síťové standardy
-    14. Počítačové sítě — vrstvový model a architektura
-    15. IPv4, subsíťování, supersíťování
-    16. Bezdrátové sítě (pásma, standardy, BSS, SSID, WPS, zabezpečení)
-    17. DHCP
-    18. DNS
-    19. Serverové služby (AD/LDAP, webový server, SOL server)
-    20. Jazyk HTML — vývoj, možnosti, prohlížeče, typy souborů
-    21. Jazyk HTML — přehled elementů a jejich atributů, rozbor na příkladech
-    22. Optimalizace www stránek — hlavní pravidla
-    23. Kaskádové styly — připojení k souborům, vlastnosti CSS, rozbor na příkladech
-    24. Vlastnosti CSS3 — přehled, rozbor na příkladech
+    1. The United Kingdom
+    2. London
+    3. Places of interest in the UK
+    4. Australia & New Zealand
+    5. Canada
+    6. The USA
+    7. Cities in the USA
+    8. Feastdays, holidays and festivals in English-speaking countries
+    9. The Czech Republic
+    10. Prague
+    11. Places of interest in the Czech Republic
+    12. Feastdays, holidays and festivals in the Czech Republic
+    13. The Czech Republic- My Region
+    14. The Czech Republic and the Media in the Czech Republic
+    15. Czech and British cuisine
+    16. Computers and Data communication
+    17. New ways of social communication
+    18. Anglo-American Literature
+    19. Anglo-American Famous Personalities
+    20. Czech Famous Personalities
     </pre>
 
 
