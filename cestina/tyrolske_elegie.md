@@ -30,6 +30,15 @@
     Karel Havlíčkek Borovský
       - milý, dobromyslný, vstřícný, odvážný a poctivý člověk
       - snaží se nepodléhat smutku z nasilného odtržení jeho osoby od vlastní rodiny
+    komisař Dedera
+      - vrchní komisař
+      - podporuje Bacha
+      - řídí převoz Karla Havlíčka Borovského do Brixenu
+    stráž
+      - velmi zbabělí
+      - bojí se a očividně nemají čisté svědomí
+    měsíček
+      - promlouvá s Karlem Havlíčkem Borovským o Brixenu, o loučení s rodinou
 ### Vyprávěcí způsoby
     Přímá řeč
 ### Typy promluv 
