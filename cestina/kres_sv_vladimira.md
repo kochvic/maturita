@@ -2,46 +2,58 @@
 ## Karel Havlíček Borovský
 
 ### Děj
-
+  - V **prvním** zpěvu Vladimír nakáže Perunovi, aby na jeho svátek hřměl, jelikož střelný prach je drahý. Perun se ovšem vzepře, posílajíc trochu sprostých slov po vyděšeném drábovi. 
+  - Ve **druhém** zpěvu je vylíčeno, jak je těžké býti bohem a co to všechno obnáší. 
+  - Ve **třetím** a **čtvrté** zpěvu je vylíčen soud s Perunem, následně pak konání rozsudku. Na závěr čtvrtého zpěvu Havlíček všechny poučuje, že každý správný občan má "držet hubu a krok". 
+  - V **pátém** zpěvu je vylíčeno, že i bez boha to jde, že život se nezastaví. 
+  - V **šestém** zpěvu se ale ukáže, že s tím mají problém církevní hospodáři, jelikož jim Rusové přestali platit desátky. A že prý se má sehnat narychlo jiný bůh. 
+  - V **sedmém** zpěvu se o tom Vladimír radí s ministry. Každý má ovšem jiné požadavky, některé jsou dokonce protichůdné. 
+  - V **osmém** zpěvu se koná útok ženské kamarily (= vlivná skupina osob ovlivňujících rozhodující osobnosti) na cara. Večer poté se car svěřil svému sluhovi, který to vyřešil za něj - dal do novin inzerát, že se hledá bůh. 
+  - Novina se hned rozletí po celém světě, donese se až k papežovi, jenž káže na Rus poslat jezovity, nechá jim složit speciální marš, jemuž je v textu věnován celý **devátý** zpěv. 
+  - **Desátý** zpěv je o konkurenčním boji mezi jednotlivými církvemi, čímž dílo končí.
 
 ### Téma a motiv
-
+    - Celkové téma: přijetí křesťanství v Rusku
+    - Hlavní téma: ruská státní a církevní moc v 10. století
+    - Vedlejší témata: postavy Peruna, cara Vladimíra
+    - Motiv: životy obyčejných Rusů
 ### Časoprostor
-
+    Carské Rusko na přelomu 9. a 10. století za vlády cara Vladimíra
 ### Kompoziční výstavba
-
+    Chronologicky
 ### Literární druh a žánr
-
+    Lyrika, epika
+    Satirická báseň
 ### Vyprávěč / lyrický subjekt
-    
-### Postavy
-    Karel Havlíčkek Borovský
-      - milý, dobromyslný, vstřícný, odvážný a poctivý člověk
-      - snaží se nepodléhat smutku z nasilného odtržení jeho osoby od vlastní rodiny
-### Vyprávěcí způsoby
-    Přímá řeč
-### Typy promluv 
-    Monology vypráveče    
-### Veršová výstavba
-    ABCB (přerývaný)
-    Každá sloka má 4 verše
-### Jazykové prostředky
     Ich-forma
-    Knižní výrazy
-    Obecná čeština
-    Historismy (pojmenování, která označují již dávno zaniklé věci)
-    Personifikace (obrazné pojmenovaní, termín více výrazů)
-    Německé výrazy
-    Metonymie (přenosu označení na jiný objekt na základě jiné souvislosti)
-    Epiteton constans (epiteton stálý či ustálený, 
-    důrazňuje určitou vlastnost osoby, předmětu nebo jevu, případně autorův hodnotící nebo citový vztah k nim)
-    Slova citově zabarvená (vyjadřuje hodnotící vztah, postoj nebo rozpoložení mluvčího)
-    Nejčastější typ rýmu v básních je sdružený(AABB) a střídavý (ABAB)
+    Er-forma
+    Ztotožňuje se s autorem
+### Postavy
+    Car Vladimír
+      - Vládce Rusi
+      - Naštval se na Peruna z ajeho nadávky
+      - Nechal ho utopit (Peruna)
+    Bůh Perun
+      - Slovanský Bůžek, co se rozezlil na cara za jeho požadavky
+    Jezovité
+      - Mniši
+### Vyprávěcí způsoby
+      Přímá řeč
+### Typy promluv 
+        Monolog
+        Pásmo vypráveče
+### Veršová výstavba
+        6 slok po 4 verších
+        rým přerývaný (ABCB)
+### Jazykové prostředky
+        Slova nespisovná
+        Archaismy (označení pro zastaralý jazykový prvek)
+        Historismy (pojmenování, která označují již dávno zaniklé věci)
 ### Tropy a figury
-    Ironie
-    Sarkasmus
-    Personifikace (obrazné pojmenovaní, termín více výrazů)
-    Přirovnání
+        Přirovnání
+        Metafora (přenášení významu původního pojmenování na jiný předmět)
+        Hyperbola (nadsázka či zveličení označuje záměrné přehánění skutečnosti s cílem zdůraznit subjektivní závažnost)
+        Gradace (v níž se postupně zesiluje význam použitých slov nebo slovních spojení podle vzrůstající intenzity)
 ### Kontext autorovy tvorba
     Karel Havlíček Borovský (1821 - 1856)
        - vlastním jménem Karel Havlíček, Borovský odvozen od jeho místa rození (Borová)
@@ -72,4 +84,5 @@
          - V prvním zpěvu Borovský promlouvá k měsici v Brixenu
          - Druhý zpěv vypráví o "náštěvě" policajtů. Dvě hodiny po půlnboci přicházejí s dopisem z Vídně od pana Bacha
 
+![obrazky/krest_sv_vladimíra.jpg]()
 
