@@ -84,5 +84,5 @@
          - V prvním zpěvu Borovský promlouvá k měsici v Brixenu
          - Druhý zpěv vypráví o "náštěvě" policajtů. Dvě hodiny po půlnboci přicházejí s dopisem z Vídně od pana Bacha
 
-![obrazky/krest_sv_vladimíra.jpg]()
+![cestina/obrazky/krest_sv_vladimíra.jpg]()
 
