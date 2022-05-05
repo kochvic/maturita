@@ -1,7 +1,7 @@
 # Fuente Ovejuna (Ovčí pramen)
 ## Lope de Vega
  ### Děj 
-     Ve vesnici vznikla kolektivní vzpoura, proti místnímu tyranovi feudálovi, Fernáru Gomézovi. Utiskoval lid, obtěžoval ženy a dívky, 
+   Ve vesnici vznikla kolektivní vzpoura, proti místnímu tyranovi feudálovi, Fernáru Gomézovi. Utiskoval lid, obtěžoval ženy a dívky, 
      vnucoval se starostově dceři, která však milovala někoho úplně jiného a páchal samé krutosti. V den sňatku starostovy dcery s Frandosou, potupil            starostu a zneuctil jeho dceru. To už bylo pro lid příliš. Jeho čin vyvolal vzpouru – Goméz překročil již veškerá práva lidu, která byla dána 
      už od krále. Za toto provinění ho vesničané zabili. Král však vyslal soudce, a nastalo vyšetřování, hledání viníka a výslechy lidí. 
      Před soudem, však byli vesničané jednotní a společně hodlali nést vinu. Nakonec po dlouhém líčení, zprostili vyšetřovatelé vesničany viny. Ani poté        však nebyl žádný viník prozrazen.
