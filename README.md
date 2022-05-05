@@ -4,6 +4,10 @@ Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k mat
 ## Task-list
 - [x] Udělat README.md
 - [x] Kontrola gramatiky v README.md
+- [ ] Naučit se tu mrdku
+- [ ] Najít si GF
+- [ ] Koupit si dům
+- [ ] Umřít
 
 ## Orientační navigace
   [Český jazyk](#témata-k-ústní-maturitní-zkoušce-z-českého-jazyka)<br>
@@ -16,10 +20,7 @@ Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k mat
 
 #### Světová a česká literatura do konce 18. století (min. 2 díla)
    [Moliére | Lakomec](cestina/lakomec.md)
-<ol>
- 
-  <li>Lope de Vega | Ovčí pramen</li>
- </ol>
+   [Lope de Vega | Ovčí pramen]
 
 #### Světová a česká literatura 19. století (min. 3 díla)
  <ol>
