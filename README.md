@@ -24,12 +24,12 @@ Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k mat
 
 #### Světová a česká literatura 19. století (min. 3 díla)
  
-  [Karel Havlíček Borovský | Tyrolské elegie](cestina/tyrolske_elegie.md)
-  [Karel Havlíček Borovský | Křest svatého Vladimíra](cestina/)
-  [Alois Jirásek | Lucerna](cestina/)
-  [Edgar Allan Poe | Havran](cestina/)
-  [Guy de Maupassant | Kulička](cestina/)
-  [F.M. Dostojevskij | Zločin a trest](cestina/)
+  [Karel Havlíček Borovský | Tyrolské elegie](cestina/tyrolske_elegie.md)<br>
+  [Karel Havlíček Borovský | Křest svatého Vladimíra](cestina/)<br>
+  [Alois Jirásek | Lucerna](cestina/)<br>
+  [Edgar Allan Poe | Havran](cestina/)<br>
+  [Guy de Maupassant | Kulička](cestina/)<br>
+  [F.M. Dostojevskij | Zločin a trest](cestina/)<br>
 
 #### Světová literatura 20. a 21. století (min. 4 díla)
   <ol>
