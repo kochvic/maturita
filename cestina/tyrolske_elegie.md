@@ -22,7 +22,7 @@
     Autobiografie (žánr spočívající v autorově vylíčení vlastního života)
     Restrospektiva (události na základě vzpomínek, známe důsledek a hledáme příčiny)
 ### Literární druh a žánr
-    Satiristická báseň
+    Satirická báseň
     Lyrica
 ### Vyprávěč / lyrický subjekt
     
