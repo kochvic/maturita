@@ -23,7 +23,7 @@
     Chronologicky
 ### Literární druh a žánr
     Lyrika, epika
-    Satirická báseň
+    Satiristická báseň
 ### Vyprávěč / lyrický subjekt
     Ich-forma
     Er-forma
