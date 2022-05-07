@@ -32,14 +32,14 @@ Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k mat
   [F.M. Dostojevskij | Zločin a trest](cestina/zlocin_a_trest.md)<br>
 
 #### Světová literatura 20. a 21. století (min. 4 díla)
-  <ol>
-  <li>Romain Rolland | Petr a Lucie</li>
-  <li>Antoine de Saint-Exupéry | Malý princ</li>
-  <li>George Orwell | Farma zvířat</li>
-  <li>Ernest Hemingways | Stařec a moře</li>
-  <li>John Steinbeck | O myších a lidech </li>
-  <li>Christiane F. | My děti ze stanice ZOO</li>
-  </ol>
+  
+  [Romain Rolland | Petr a Lucie](cestina/petr_a_lucie.md)
+  Antoine de Saint-Exupéry | Malý princ
+  George Orwell | Farma zvířat
+  Ernest Hemingways | Stařec a moře
+  John Steinbeck | O myších a lidech 
+  Christiane F. | My děti ze stanice ZOO
+  
 
 #### Česká literatura 20. a 21. století (min. 5 děl)
 
