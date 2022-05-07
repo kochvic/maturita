@@ -34,7 +34,7 @@ Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k mat
 #### Světová literatura 20. a 21. století (min. 4 díla)
   
   [Romain Rolland | Petr a Lucie](cestina/petr_a_lucie.md)<br>
-  Antoine de Saint-Exupéry | Malý princ<br>
+  [Antoine de Saint-Exupéry | Malý princ](cestina/maly_princ)<br>
   George Orwell | Farma zvířat<br>
   Ernest Hemingways | Stařec a moře<br>
   John Steinbeck | O myších a lidech <br>
