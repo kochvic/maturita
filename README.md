@@ -28,7 +28,7 @@ Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k mat
   [Karel Havlíček Borovský | Křest svatého Vladimíra](cestina/kres_sv_vladimira.md)<br>
   [Alois Jirásek | Lucerna](cestina/lucerna.md)<br>
   [Edgar Allan Poe | Havran](cestina/havran.md)<br>
-  Guy de Maupassant | Kulička<br>
+  [Guy de Maupassant | Kulička](cestina/kulicka.md)<br>
   F.M. Dostojevskij | Zločin a trest<br>
 
 #### Světová literatura 20. a 21. století (min. 4 díla)
