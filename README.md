@@ -27,7 +27,7 @@ Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k mat
   [Karel Havlíček Borovský | Tyrolské elegie](cestina/tyrolske_elegie.md)<br>
   [Karel Havlíček Borovský | Křest svatého Vladimíra](cestina/kres_sv_vladimira.md)<br>
   [Alois Jirásek | Lucerna](cestina/lucerna.md)<br>
-  Edgar Allan Poe | Havran<br>
+  [Edgar Allan Poe | Havran](cestina/havran.md)<br>
   Guy de Maupassant | Kulička<br>
   F.M. Dostojevskij | Zločin a trest<br>
 
