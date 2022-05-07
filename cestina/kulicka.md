@@ -21,7 +21,7 @@
     Povídka
 ### Vyprávěč / lyrický subjekt
     Er-forma (minulý čas)
-    Autor je všvědoucí
+    Autor je vševědoucí
     Slohový postup (vyprávěcí a popisný)
 ### Postavy
     Alžběta "Kulička" Roussetová
