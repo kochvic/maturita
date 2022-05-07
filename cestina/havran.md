@@ -11,7 +11,7 @@
     Úzkost ze života a smrti
     Úzkost z vesmírného prázdna
 ### Časoprostor
-    V noci, v pokoji (čas se nedá určit)
+    V noci, v pokoji (čas se nedá více určit)
 ### Kompoziční výstavba
     Chronologická
 ### Literární druh a žánr
