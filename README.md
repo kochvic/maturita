@@ -33,12 +33,12 @@ Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k mat
 
 #### Světová literatura 20. a 21. století (min. 4 díla)
   
-  [Romain Rolland | Petr a Lucie](cestina/petr_a_lucie.md)
-  Antoine de Saint-Exupéry | Malý princ
-  George Orwell | Farma zvířat
-  Ernest Hemingways | Stařec a moře
-  John Steinbeck | O myších a lidech 
-  Christiane F. | My děti ze stanice ZOO
+  [Romain Rolland | Petr a Lucie](cestina/petr_a_lucie.md)<br>
+  Antoine de Saint-Exupéry | Malý princ<br>
+  George Orwell | Farma zvířat<br>
+  Ernest Hemingways | Stařec a moře<br>
+  John Steinbeck | O myších a lidech <br>
+  Christiane F. | My děti ze stanice ZOO<br>
   
 
 #### Česká literatura 20. a 21. století (min. 5 děl)
