@@ -5,7 +5,7 @@ Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k mat
 - [x] Udělat README.md
 - [x] Kontrola gramatiky v README.md
 - [ ] Naučit se tu mrdku
-- [ ] Najít si GF
+- [x] Najít si ~~GF~~ kamarádku s výhodami
 - [ ] Koupit si dům
 - [ ] Umřít
 
