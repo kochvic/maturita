@@ -38,4 +38,35 @@ We can visit a lot of tourist's sights and interesting places in London: <br>
 The Tower Bridge - the most famous bridge in London whichc is raised in the middle to allow ships to pass up the river
 
 ### The city of Westminster
+    Political, administrative centre of London
+### The Houses of Parliament
+    Political centre of U.K., the home of British Parliament  
+### Big Ben
+    clock tower, the strike is used by the BBC as time signal
+### Downing Street 10
+    Has been the home of the Prime Minister since 1735
+### Buckingham Palace
+    The London home of the kings and queens of Great Britain, outside the Changing of the Guards
+### Stratford-upon-Avon
+    is the birthplace of William Shakespeare
+### Canterbury
+    is and ancient city with a majestic cathedral.
+### Stonehenge
+    is a circle of stone which is 5000 years old
+### Hyde Park
+    is one of the largest parks in London, where they have Speakres' Corner, 
+    where everybody can speak, debate and discussion about anything. 
+    One topics is banned and is it Royal family.
+    
+## British celebrities
+    Charles Dickens
+    Jane Austen
+    William Shakespeare
+    Sharlock Holmes
+    Harry Potter (the famous boy wizard)
+    James Bond
+ ## Famous universities
+   Oxford is the oldest university town, which lies on the river Thames.
+   Cambridge is famouse and old university town as well and it is situated on both banks of the river Cam.
+    
     
