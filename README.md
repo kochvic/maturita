@@ -1,17 +1,20 @@
 # Maturitka formalitka
-Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k maturitě 2022
+Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k maturitě 2022<br>
+
+*Struktůra a obsah od Kryštofa "Lynder063" Malindy*<br>
+*Gramatická kontrola od Davida Duška*
 
 ## Task-list
 - [x] Udělat README.md
 - [x] Kontrola gramatiky v README.md
+- [x] "Radši se zabiju než abych spáchal sebevraždu" - Lynder063, 2020
 - [ ] Naučit se tu mrdku
-- [x] Najít si ~~GF~~ kamarádku s výhodami
+- [ ] Najít si ~~GF~~ kamarádku s výhodami 
 - [ ] Koupit si dům
 - [ ] Umřít
 
 ## Orientační navigace
   [Český jazyk](#témata-k-ústní-maturitní-zkoušce-z-českého-jazyka)<br>
-  [Příklady k ČJ](#příklady-k-ústní-maturitní-zkoušce-z-českého-jazyka)<br>
   [Anglický jazyk](#témata-k-ústní-maturitní-zkoušce-z-českého-jazyka)<br>
   [Operační systémy a sítě](#témata-k-ústní-maturitní-zkoušce-operační-systémy-a-správa-sítí)<br>
   [Programovaní OOP](#témata-k-ústní-maturitní-zkoušce-programování-a-vývoj-aplikací)<br>
