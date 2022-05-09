@@ -57,22 +57,22 @@ Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k mat
    [London](anglictina/london.md)<br>
    [Places of interest in the UK](anglictina/places_of_interest_in_the_uk.md)<br>
    [Australia & New Zealand](anglictina/australia_and_new_zealand.md)<br>
-   [Canada](anglictina/.md)<br>
-   [The USA](anglictina/.md)<br>
-   [Cities in the USA](anglictina/.md)<br>
-   [Feastdays, holidays and festivals in English-speaking countries](anglictina/.md)<br>
-   [The Czech Republic](anglictina/.md)<br>
-   [Prague](anglictina/.md)<br>
-   [Places of interest in the Czech Republic](anglictina/.md)<br>
-   [Feastdays, holidays and festivals in the Czech Republic](anglictina/.md)<br>
-   [The Czech Republic- My Region](anglictina/.md)<br>
-   [The Czech Republic and the Media in the Czech Republic](anglictina/.md)<br>
-   [Czech and British cuisine](anglictina/.md)<br>
-   [Computers and Data communication](anglictina/.md)<br>
-   [New ways of social communication](anglictina/.md)<br>
-   [Anglo-American Literature](anglictina/.md)<br>
-   [Anglo-American Famous Personalities](anglictina/.md)<br>
-   [Czech Famous Personalities](anglictina/.md)<br>
+   Canada<br>
+   The USA<br>
+   Cities in the USA<br>
+   Feastdays, holidays and festivals in English-speaking countries<br>
+   The Czech Republic<br>
+   Prague<br>
+   Places of interest in the Czech Republic<br>
+   Feastdays, holidays and festivals in the Czech Republic<br>
+   The Czech Republic- My Region<br>
+   The Czech Republic and the Media in the Czech Republic<br>
+   Czech and British cuisine<br>
+   Computers and Data communication<br>
+   New ways of social communication<br>
+   Anglo-American Literature<br>
+   Anglo-American Famous Personalities<br>
+   Czech Famous Personalities<br>
    
 
 
