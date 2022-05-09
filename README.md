@@ -55,7 +55,7 @@ Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k mat
 ## Témata k ústní maturitní zkoušce z Anglického Jazyka:
    [The United Kingdom](anglictina/the_united_kingdom.md)<br>
    [London](anglictina/london.md)<br>
-   [Places of interest in the UK](anglictina/.md)<br>
+   [Places of interest in the UK](anglictina/places_of_interest_in_the_uk.md)<br>
    [Australia & New Zealand](anglictina/.md)<br>
    [Canada](anglictina/.md)<br>
    [The USA](anglictina/.md)<br>
