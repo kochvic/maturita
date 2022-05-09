@@ -2,7 +2,7 @@
 ![licensed-image](https://user-images.githubusercontent.com/56117532/167449142-eafd0f55-59ca-4127-b01d-70821d507ca2.jpg)
 
 ## Basic information
-London is ther capital city of the UK. Lodnon is situated in southeast England alon the Thames River. It is the 9th largest city in the world. With a population of about 8 million, the is vast metropolis. London is a cosmopolis city, there are people of many nationalites.
+London is ther capital city of the UK. Lodnon is situated in southeast England along the Thames River. London in one of the greatest and most important city in the world. It’s the seat of the Monarch, the Parliament, the Government, and the Supreme Court. It was founded as a Roman settlement. The great fire in 1666 destroyed almost all the city. It is the 9th largest city in the world. With a population of about 8 million, the is vast metropolis. London is a cosmopolis city, there are people of many nationalites.
 
 ## Parts in London
    There are four parts in Lodnon<br>
@@ -23,7 +23,7 @@ West End is the shopping and entertainment centre with many shops, theatres, cin
 ### East end
 East End **used to be** a poor dockland area but it has been changing. Now it is rapidly developing area
 
-##History
+## History
 The city was probably founded 2000 years ago. The Romans built their settlement and called it *Londinium*. The London probably comes from Celts. In 19th century it was the largest and most influential city in the world. London is still one of the world's majo financial and cultural city
 
 ## Timeline
@@ -97,8 +97,3 @@ London transport is one of high quality. For example, one of the world famous re
    ### 10 Downing Street
    ![index](https://user-images.githubusercontent.com/56117532/167457634-eeaced1f-cda5-4a9b-8e83-c0e829af5b8d.jpg)<br>
    Is the famous door of the prime minister office
-
-## 
-##
-## 
-##
