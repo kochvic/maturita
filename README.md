@@ -81,28 +81,28 @@ Jednoduché repo pro moje kamarády a spolužáky se všemi mými podklady k mat
 
   1. [Hardware - základní deska, CPU](site/hardware_zakladni_deska_cpu.md)<br>
   2. Hardware - HDD, SSD, M.2, operační paměť, přenositelná media<br>
-  3. Hardware — stavba PC, periferní zařízení<br>
-  4. Teorie OS — funkce OS, typy OS<br>
+  3. Hardware - stavba PC, periferní zařízení<br>
+  4. Teorie OS - funkce OS, typy OS<br>
   5. Druhy softwaru a typy dat, ztrátová a beztrátová komprese<br>
-  6. MS Windows — správa uživatelů, ACL a pracovní skupina<br>
-  7. GNU/Linux — historie, vývoj, distribuce, kernel<br>
-  8. GNU/Linux — správa uživatelů, procesů a nastavování oprávnění k souborům a složkám<br>
-  9. GNU/Linux — instalace a správa aplikací, balíčkovací systémy, konfigurace síťového rozhraní<br>
+  6. MS Windows - správa uživatelů, ACL a pracovní skupina<br>
+  7. GNU/Linux - historie, vývoj, distribuce, kernel<br>
+  8. GNU/Linux - správa uživatelů, procesů a nastavování oprávnění k souborům a složkám<br>
+  9. GNU/Linux - instalace a správa aplikací, balíčkovací systémy, konfigurace síťového rozhraní<br>
   10. Bezpečnost — malware, firewall, certifikáty, šifrování<br>
-  11. Počítačové sítě — základní pojmy a topologie<br>
-  12. Počítačové sítě — pasivní a aktivní prvky sítě<br>
-  13. Počítačové sítě — síťové standardy<br>
-  14. Počítačové sítě — vrstvový model a architektura<br>
+  11. Počítačové sítě - základní pojmy a topologie<br>
+  12. Počítačové sítě - pasivní a aktivní prvky sítě<br>
+  13. Počítačové sítě - síťové standardy<br>
+  14. Počítačové sítě - vrstvový model a architektura<br>
   15. IPv4, subsíťování, supersíťování<br>
   16. Bezdrátové sítě (pásma, standardy, BSS, SSID, WPS, zabezpečení)<br>
   17. DHCP<br>
   18. DNS<br>
   19. Serverové služby (AD/LDAP, webový server, SOL server)<br>
-  20. Jazyk HTML — vývoj, možnosti, prohlížeče, typy souborů<br>
-  21. Jazyk HTML — přehled elementů a jejich atributů, rozbor na příkladech<br>
+  20. Jazyk HTML - vývoj, možnosti, prohlížeče, typy souborů<br>
+  21. Jazyk HTML - přehled elementů a jejich atributů, rozbor na příkladech<br>
   22. Optimalizace www stránek — hlavní pravidla<br>
-  23. Kaskádové styly — připojení k souborům, vlastnosti CSS, rozbor na příkladech<br>
-  24. Vlastnosti CSS3 — přehled, rozbor na příkladech<br>
+  23. Kaskádové styly - připojení k souborům, vlastnosti CSS, rozbor na příkladech<br>
+  24. Vlastnosti CSS3 - přehled, rozbor na příkladech<br>
 
 
 
