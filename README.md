@@ -1,5 +1,5 @@
 # Maturitka formalitka
-Jednoduché repo pro moje kamarády a spolužáky se všemy mými podklady k maturitě 2022<br>
+Jednoduché repo pro moje kamarády a spolužáky se všemi mými podklady k maturitě 2022<br>
 
 *Struktůra a obsah od Kryštofa "Lynder063" Malindy*<br>
 *(Občasná) Gramatická kontrola od Davida Duška*
