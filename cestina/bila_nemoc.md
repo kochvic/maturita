@@ -1,5 +1,5 @@
-# Krysař
-## Viktor Dyk
+# Bílá nemoc
+## Karel Čapek
  ### Děj
  V jisté, blíže neurčené zemi, se rozmohla epidemie tzv. bílé nemoci. Jde pravděpodobně o jakousi formu malomocenství, která se projevuje bílými skvrnami na kůži. Šíří se dotykem a ze začátku pouze mezi chudými a starými lidmi. Zemi ovládá diktátor Maršál, který se připravuje na výbojnou válku proti menšímu sousednímu státu. V tom mu pomáhá vlastník zbrojovek baron Krüg. Mladému doktorovi Galénovi se mezitím podaří najít lék proti bílé nemoci, ale léčí jen chudé lidi, kteří nemají moc ani vliv. Těm vlivnějším Galén lék vydat odmítá. Když onemocní baron Krüg, zavolá Galéna, aby ho vyléčil. Ten mu dává podmínku – musí okamžitě zastavit zbrojení, jinak mu lék nebude vydán. Krüg žádá Maršála, aby uzavřel mír, ten však nehodlá se zbrojením přestat a Krüg ze zoufalství spáchá sebevraždu. Po jeho smrti začíná útok na sousední zemi. Avšak také Maršál na sobě zpozoruje bílou skvrnu. Maršálova dcera pozve Galéna, aby Maršála vyléčil, ten má ale stále stejnou podmínku – Maršál musí uzavřít mír. Teprve na naléhání své dcery a mladého Krüga, je ochoten uzavřít mír a splnit tak Galénovu podmínku pro poskytnutí léku. Dá zavolat Galéna, ale ten se před Maršálovým palácem střetne se skandujícím davem, a protože se snaží odporovat jejich provolávání hesla: „Ať žije Maršál, ať žije válka!“ je on i lék davem ušlapán. Dav v tu chvíli netuší, že tak vlastně zabili oslavovaného vůdce. Navíc na závěr vypuká válka. 
 ### Téma a motiv
