@@ -82,7 +82,7 @@ Jednoduché repo pro moje kamarády a spolužáky se všemi mými podklady k mat
   1. [Hardware - základní deska, CPU](site/hardware_zakladni_deska_cpu.md)<br>
   2. [Hardware - HDD, SSD, M.2, operační paměť, přenositelná media](site/hardware_hdd_ssd_m2_operacni_pamet_prenositelna_media.md)<br>
   3. [Hardware - stavba PC, periferní zařízení](site/hardware_stavba_pc_periferni_zarizeni.md)<br>
-  4. Teorie OS - funkce OS, typy OS<br>
+  4. [Teorie OS - funkce OS, typy OS](site/teorie_funkce_typy_os.md)<br>
   5. Druhy softwaru a typy dat, ztrátová a beztrátová komprese<br>
   6. MS Windows - správa uživatelů, ACL a pracovní skupina<br>
   7. GNU/Linux - historie, vývoj, distribuce, kernel<br>
