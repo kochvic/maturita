@@ -70,7 +70,7 @@ Jednoduché repo pro moje kamarády a spolužáky se všemi mými podklady k mat
    The Czech Republic and the Media in the Czech Republic<br>
    Czech and British cuisine<br>
    Computers and Data communication<br>
-   New ways of social communication<br>
+   New ways of social communication<br>a
    Anglo-American Literature<br>
    Anglo-American Famous Personalities<br>
    Czech Famous Personalities<br>
