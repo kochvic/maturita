@@ -40,7 +40,20 @@ Některé zdroje mají přepínač pro změnu vstupní napětí mezi **230V** a 
 
 ### Paměť (RAM)
 - RAM *(Random-Access memory, pamět s přímým přístupem)* je typ **elektronické paměti**, která umožňuje přístup k **libovolné části** v konstatním ščase bez ohledu na její fyzické umístění.
-- Proto je doslovný překlad anglického "**random**"
+- Proto je doslovný překlad anglického "**random**" v podobě "paměť s náhodným přístupem" zavádějící a je vhodnější používat český termín **paměť s přímým přístupem (nebo libovolným přístupem)**.
+- Druhy RAM
+  * SDRAM
+    * DDR1, DDR2, DDR3, DDR4 *(standart aktualně)*, DDR5
+  * Grafické
+    * GDDR3, GDDR4, GDDR5, GDDR6
+
 ### Pevný disk
+- Pevný disk (zkratka HDD, anglicky hard disk drive) je zařízení, které se používá v **počítačích a ve spotřební elektronice** slouží k **dočasnému** nebo **trvalému uchovávání většího množství** pomocí **magnetické indukce**
+
+|  | HDD (SATA/IDE(PATA))      | SSD (SATA) | NVMe M.2 |
+| --- | --- | ------- | ---- |
+| **Mínusy** | Pomalý, Náchylné nárazy, Spotřeba, Magnety | Omezený počet zápisů |   Omezený počet zapisů, cena |
+| **Plusy** |  Super Kč/GB, Životnost | Rychlý, Nízká spotřeba | Rychlost, Nízka spotřeba |
+
 ### Základní deska
 ### CD/DVD/BD mechanika
