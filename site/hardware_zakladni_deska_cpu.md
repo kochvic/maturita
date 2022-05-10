@@ -56,4 +56,14 @@ Některé zdroje mají přepínač pro změnu vstupní napětí mezi **230V** a 
 | **Plusy** |  Super Kč/GB, Životnost | Rychlý, Nízká spotřeba | Rychlost, Nízka spotřeba |
 
 ### Základní deska
+- Základní deska (motherboard, mainboard) je **základním hardware počítačů**
+- Hlavním účelem je **propojit jednotlivé součástky počítače do fungujícího celku a poskytnout jim elektrické napájení**
+- Postupem času se funkce základní desky rozšírovala v tom, že sama začínala **obsahovat** některé **součástky počítače**, které se do ní dříve musely zapojovat zvlášť.
+
 ### CD/DVD/BD mechanika
+- V součastné době jsou **CD, DVD A BD** mechaniky pro počítač volitelná komponenta, bet které jste schopni počítač používat
+- Dříve se tyto mechaniky používali hlavně pro
+    * instalaci programů
+    * instalace operačního systému
+    * poslech hudby či sledovaní serialů/filmů
+- Dnešní době vysokorychlostního internetu se používají spíše už je na vypalovaní a zálohu fotek a různých dat, které chcete mít zálohované mimo počítač na pevném médiu
