@@ -39,7 +39,7 @@ Jednoduché repo pro moje kamarády a spolužáky se všemi mými podklady k mat
   [Romain Rolland | Petr a Lucie](cestina/petr_a_lucie.md)<br>
   [Antoine de Saint-Exupéry | Malý princ](cestina/maly_princ.md)<br>
   [George Orwell | Farma zvířat](cestina/farma_zvirat.md)<br>
-  Ernest Hemingways | Stařec a moře<br>
+  [Ernest Hemingways | Stařec a moře](cestina/starec_a_more.md)<br>
   John Steinbeck | O myších a lidech <br>
   Christiane F. | My děti ze stanice ZOO<br>
   
