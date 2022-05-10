@@ -50,7 +50,7 @@ Jednoduché repo pro moje kamarády a spolužáky se všemi mými podklady k mat
   [Vladislav Vančura | Rozmarné léto](cestina/rozmarne_leto.md)<br>
   Karel Čapek | Bilá nemoc<br>
   [Karel Čapek | R.U.R](cestina/r_u_r.md)<br>
-  Ladislav Fuks | Spalovač mrtvol<br>
+  [Ladislav Fuks | Spalovač mrtvol](cestina/spalovac_mrtvol.md)<br>
   
 
 ## Témata k ústní maturitní zkoušce z Anglického Jazyka:
