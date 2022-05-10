@@ -21,7 +21,8 @@ Vyprávění o dobrodružství pěti chlapců žijících v malém českém měs
          – Je ministrantem, jeho rodina je věřící. Je ješitný a jeho koníčkem je sbírání hříchů, ze kterých se pak vyzpovídá. Jeho tatínek vyrábí čepice. 
     Tonda Bejval
          – Vymýšlí spoustu šílených „vynálezů“. Je trochu namyšlený a lakomý. 
-    Zilvar z chudobince – Žije s tátou v chudobinci, často žebrají. Je z nich nejchudší a je nejvíc protřelý a zkušený. 
+    Zilvar z chudobince 
+         – Žije s tátou v chudobinci, často žebrají. Je z nich nejchudší a je nejvíc protřelý a zkušený. 
     Eda Kemlink
          – Poslední z party. 
     Evička Svobodová
