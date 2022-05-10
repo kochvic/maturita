@@ -47,7 +47,7 @@ Jednoduché repo pro moje kamarády a spolužáky se všemi mými podklady k mat
 #### Česká literatura 20. a 21. století (min. 5 děl)
   [Karel Poláček | Bylo nás pět](cestina/bylo_nas_pet.md)<br>
   [Viktor Dyk | Krysař](cestina/krysar.md)<br>
-  Vladislav Vančura | Rozmarné léto<br>
+  [Vladislav Vančura | Rozmarné léto](cestina/rozmarne_leto.md)<br>
   Karel Čapek | Bilá nemoc<br>
   Karel Čapek | R.U.R<br>
   Ladislav Fuks | Spalovač mrtvol<br>
