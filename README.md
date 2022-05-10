@@ -22,35 +22,35 @@ Jednoduché repo pro moje kamarády a spolužáky se všemi mými podklady k mat
 ## Témata k ústní maturitní zkoušce z Českého jazyka:
 
 #### Světová a česká literatura do konce 18. století (min. 2 díla)
-   [Moliére | Lakomec](cestina/lakomec.md)<br>
-   [Lope de Vega | Ovčí pramen](cestina/ovci_pramen.md)<br>
+   1. [Moliére | Lakomec](cestina/lakomec.md)<br>
+   2. [Lope de Vega | Ovčí pramen](cestina/ovci_pramen.md)<br>
 
 #### Světová a česká literatura 19. století (min. 3 díla)
 
-  [Karel Havlíček Borovský | Tyrolské elegie](cestina/tyrolske_elegie.md)<br>
-  [Karel Havlíček Borovský | Křest svatého Vladimíra](cestina/kres_sv_vladimira.md)<br>
-  [Alois Jirásek | Lucerna](cestina/lucerna.md)<br>
-  [Edgar Allan Poe | Havran](cestina/havran.md)<br>
-  [Guy de Maupassant | Kulička](cestina/kulicka.md)<br>
-  [F.M. Dostojevskij | Zločin a trest](cestina/zlocin_a_trest.md)<br>
+  3. [Karel Havlíček Borovský | Tyrolské elegie](cestina/tyrolske_elegie.md)<br>
+  4. [Karel Havlíček Borovský | Křest svatého Vladimíra](cestina/kres_sv_vladimira.md)<br>
+  5. [Alois Jirásek | Lucerna](cestina/lucerna.md)<br>
+  6. [Edgar Allan Poe | Havran](cestina/havran.md)<br>
+  7. [Guy de Maupassant | Kulička](cestina/kulicka.md)<br>
+  8. [F.M. Dostojevskij | Zločin a trest](cestina/zlocin_a_trest.md)<br>
 
 #### Světová literatura 20. a 21. století (min. 4 díla)
 
-  [Romain Rolland | Petr a Lucie](cestina/petr_a_lucie.md)<br>
-  [Antoine de Saint-Exupéry | Malý princ](cestina/maly_princ.md)<br>
-  [George Orwell | Farma zvířat](cestina/farma_zvirat.md)<br>
-  [Ernest Hemingways | Stařec a moře](cestina/starec_a_more.md)<br>
-  [John Steinbeck | O myších a lidech](cestina/o_mysich_a_lidech.md)<br>
-  [Christiane F. | My děti ze stanice ZOO](cestina/my_deti_ze_stanice_zoo.md)<br>
+  9. [Romain Rolland | Petr a Lucie](cestina/petr_a_lucie.md)<br>
+  10. [Antoine de Saint-Exupéry | Malý princ](cestina/maly_princ.md)<br>
+  11. [George Orwell | Farma zvířat](cestina/farma_zvirat.md)<br>
+  12. [Ernest Hemingways | Stařec a moře](cestina/starec_a_more.md)<br>
+  13. [John Steinbeck | O myších a lidech](cestina/o_mysich_a_lidech.md)<br>
+  14. [Christiane F. | My děti ze stanice ZOO](cestina/my_deti_ze_stanice_zoo.md)<br>
 
 
 #### Česká literatura 20. a 21. století (min. 5 děl)
-  [Karel Poláček | Bylo nás pět](cestina/bylo_nas_pet.md)<br>
-  [Viktor Dyk | Krysař](cestina/krysar.md)<br>
-  [Vladislav Vančura | Rozmarné léto](cestina/rozmarne_leto.md)<br>
-  [Karel Čapek | Bilá nemoc](cestina/bila_nemoc.md)<br>
-  [Karel Čapek | R.U.R](cestina/r_u_r.md)<br>
-  [Ladislav Fuks | Spalovač mrtvol](cestina/spalovac_mrtvol.md)<br>
+  15. [Karel Poláček | Bylo nás pět](cestina/bylo_nas_pet.md)<br>
+  16. [Viktor Dyk | Krysař](cestina/krysar.md)<br>
+  17. [Vladislav Vančura | Rozmarné léto](cestina/rozmarne_leto.md)<br>
+  18. [Karel Čapek | Bilá nemoc](cestina/bila_nemoc.md)<br>
+  19. [Karel Čapek | R.U.R](cestina/r_u_r.md)<br>
+  20. [Ladislav Fuks | Spalovač mrtvol](cestina/spalovac_mrtvol.md)<br>
 
 
 ## Témata k ústní maturitní zkoušce z Anglického Jazyka:
@@ -80,7 +80,7 @@ Jednoduché repo pro moje kamarády a spolužáky se všemi mými podklady k mat
 ## Témata k ústní maturitní zkoušce Operační systémy a správa sítí:
 
   1. [Hardware - základní deska, CPU](site/hardware_zakladni_deska_cpu.md)<br>
-  2. Hardware - HDD, SSD, M.2, operační paměť, přenositelná media<br>
+  2. [Hardware - HDD, SSD, M.2, operační paměť, přenositelná media](site/hardware_hdd_ssd_m2_operacni_pamet_prenositelna_media)<br>
   3. Hardware - stavba PC, periferní zařízení<br>
   4. Teorie OS - funkce OS, typy OS<br>
   5. Druhy softwaru a typy dat, ztrátová a beztrátová komprese<br>
