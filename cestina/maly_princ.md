@@ -73,9 +73,9 @@
     Spisovný jazyk
     Zdrobněliny
 ### Tropy a figury
-    Metafora
+    Metafora (přenášení významu původního pojmenování na jiný předmět)
     Přirovnání
-    Personifikace
+    Personifikace (obrazné pojmenovaní, termín více výrazů)
 ### Kontext autorovy tvorba
     Antoine de Saint-Exupéry (1900-1944)
        Francouzský prozaik 20. století, publicista, letec na dálkových tratích a válečný pilot
