@@ -48,7 +48,7 @@ Jednoduché repo pro moje kamarády a spolužáky se všemi mými podklady k mat
   [Karel Poláček | Bylo nás pět](cestina/bylo_nas_pet.md)<br>
   [Viktor Dyk | Krysař](cestina/krysar.md)<br>
   [Vladislav Vančura | Rozmarné léto](cestina/rozmarne_leto.md)<br>
-  Karel Čapek | Bilá nemoc<br>
+  [Karel Čapek | Bilá nemoc](cestina/bila_nemoc.md)<br>
   [Karel Čapek | R.U.R](cestina/r_u_r.md)<br>
   [Ladislav Fuks | Spalovač mrtvol](cestina/spalovac_mrtvol.md)<br>
   
