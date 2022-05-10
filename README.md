@@ -45,15 +45,13 @@ Jednoduché repo pro moje kamarády a spolužáky se všemi mými podklady k mat
   
 
 #### Česká literatura 20. a 21. století (min. 5 děl)
-
-  <ol>
-  <li>Karel Poláček | Bylo nás pět</li>
-  <li>Viktor Dyk | Krysař</li>
-  <li>Vladislav Vančura | Rozmarné léto</li>
-  <li>Karel Čapek | Bilá nemoc</li>
-  <li>Karel Čapek | R.U.R</li>
-  <li>Ladislav Fuks | Spalovač mrtvol</li>
-  </ol>
+  Karel Poláček | Bylo nás pět<br>
+  Viktor Dyk | Krysař<br>
+  Vladislav Vančura | Rozmarné léto<br>
+  Karel Čapek | Bilá nemoc<br>
+  Karel Čapek | R.U.R<br>
+  Ladislav Fuks | Spalovač mrtvol<br>
+  
 
 ## Témata k ústní maturitní zkoušce z Anglického Jazyka:
    [The United Kingdom](anglictina/the_united_kingdom.md)<br>
