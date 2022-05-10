@@ -63,4 +63,6 @@
       Francis Scott Fitzgerald (Velký Gatsby)
       John Steinbeck (O myších a lidech) 
     Dílo vzniklo ve druhé polovině 20. století a Hemingway za něj obdržel Nobelovu cenu.
+    Myšlení prozaiků a básníků této skupiny bylo ovlivněno zážitkem z 1. světové války, pocitem neschopnosti zařadit se zpět do obyčejného života. 
+    Základní téma literárních děl této generace je skepse, zklamání, rozpad lidských a sociálních hodnot a hledání východiska v útěku do přírody nebo kultury. Hlavními hrdiny bývají lidé ztracení v labyrintu světa, obvykle rozvrácené, silně citově založené osoby, které nemohou najít pevný bod ve svém životě. 
     
