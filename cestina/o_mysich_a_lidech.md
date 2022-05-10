@@ -42,10 +42,12 @@
     Epiteton (důrazňuje určitou vlastnost osoby, předmětu nebo jevu, případně autorův hodnotící nebo citový vztah k nim)
     Inverze (obrácení slovosledu)
 ### Kontext autorovy tvorba
-    John Ernst Steinbeck byl americký spisovatel 20. století, nositel Pulitzerovy ceny (Hrozny hněvu - 1940) a Nobelovy ceny z roku 1962. Pocházel z Kalifornie, kde prožil většinu svého života. Za svůj život vystřídal různá zaměstnání, zkušenosti z tohoto období poté využil ve svých dílech. 
+    John Ernst Steinbeck byl americký spisovatel 20. století, nositel Pulitzerovy ceny (Hrozny hněvu - 1940) a Nobelovy ceny z roku 1962. Pocházel z Kalifornie, kde prožil většinu svého života. 
+    Za svůj život vystřídal různá zaměstnání, zkušenosti z tohoto období poté využil ve svých dílech. 
     Se ztracenou generací souvisí volně, vlivem evropanství. 
     Ve svých dílech zachytil hlavně osudy kalifornských drobných zemědělců v době hospodářské krize (ztráta půdy, vystěhovalectví, marné hledání obživy, cesta na Západ). 
-    Zabývá se konfliktem dobra a zla v člověku a možnostmi výběru svobodné lidské vůle, dobře rozumí psychologii člověka. Jeho novely jsou typické pro popis vztahu člověka k půdě, ukazuje negativní postoj člověka k moderní civilizaci, popisuje ekonomickou krizi, odsuzuje násilí a vykořisťování druhých. 
+    Zabývá se konfliktem dobra a zla v člověku a možnostmi výběru svobodné lidské vůle, dobře rozumí psychologii člověka. 
+    Jeho novely jsou typické pro popis vztahu člověka k půdě, ukazuje negativní postoj člověka k moderní civilizaci, popisuje ekonomickou krizi, odsuzuje násilí a vykořisťování druhých. 
     Do jeho tvorby Romány: Hrozny hněvu, Na východ od ráje, Toulavý autobus. 
     Povídky: Nebeské pastviny, Údolí bez konce. 
     Umírá v roce 1968. 
