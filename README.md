@@ -41,7 +41,7 @@ Jednoduché repo pro moje kamarády a spolužáky se všemi mými podklady k mat
   [George Orwell | Farma zvířat](cestina/farma_zvirat.md)<br>
   [Ernest Hemingways | Stařec a moře](cestina/starec_a_more.md)<br>
   [John Steinbeck | O myších a lidech](cestina/o_mysich_a_lidech.md)<br>
-  Christiane F. | My děti ze stanice ZOO<br>
+  [Christiane F. | My děti ze stanice ZOO](cestina/my_deti_ze_stanice_zoo.md)<br>
   
 
 #### Česká literatura 20. a 21. století (min. 5 děl)
