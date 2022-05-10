@@ -78,8 +78,8 @@
       - Formulovaní nových teoriích o státu
     Opíraní o autoriy římského starověku - Antika
     K období 14-16. století se vážou pojmy renesance ale i reformace a humanismus
-    Součístnící
-      - Španelsko
+    Součastnící
+      - Španělsko
          - Terso de Molina
          - Miguel de Cervantes y Saavedra
       - Itálie
