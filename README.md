@@ -96,7 +96,7 @@ Jednoduché repo pro moje kamarády a spolužáky se všemi mými podklady k mat
   15. [IPv4, subsíťování, supersíťování](site/ipv_4.md)<br>
   16. [Bezdrátové sítě (pásma, standardy, BSS, SSID, WPS, zabezpečení)](site/bezdrat.md)<br>
   17. [DHCP](site/dhcp.md)<br>
-  18. DNS<br>
+  18. [DNS](site/dns.md)<br>
   19. Serverové služby (AD/LDAP, webový server, SOL server)<br>
   20. Jazyk HTML - vývoj, možnosti, prohlížeče, typy souborů<br>
   21. Jazyk HTML - přehled elementů a jejich atributů, rozbor na příkladech<br>
