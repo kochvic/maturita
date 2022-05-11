@@ -15,6 +15,11 @@ Ke zpracování střídavého napětí dodávaného ze sítě | na ústalené, m
 3 napajeci vetve *(+3,3V, 5V, 12 V)*   
   - Servery *(skutečné servery, ne doma postavené)* jedou jen na 12V, menší napětí se mění na desce *(kvůli účinnosti)*
 
+80 Plus
+  - Severoamerické sdružení prosazující vyšščí energetickou účinnost počítačových strojů *(PSU)*
+      * Bronze (85)
+      * Silver (87)
+      * Gold (90)
 
 ### Počítačová skříň (Case)
 - Skříň je důležitá abychom jsme měli kam to dát, mít to naskádané na sobě vedle monitoru to není úplně idealní. *(ale nějací fanatici to dělají)*
@@ -23,7 +28,8 @@ Ke zpracování střídavého napětí dodávaného ze sítě | na ústalené, m
 - **Rozměry** základní desky odpovídají rozmístění upevňovací lišty pro rozšiřujíci karty.
 - Skříňe se vyrábějí v rozných velikostech vyhotovených pro různé typy základnách desek. Z hlediska použití se skříňe dělí na dva základní typy
     * Naležato (Desktop)
-    * Nastojato (Tower)
+    * "Nastojato" (Tower)
+    * "Vedle monitoru" (Open Bench)
 
 ### Procesor (CPU)
 - Procesor *(Central Processing Unit, zkratka CPU)* je v informatice **základní součást počítače**, která vykonává strojový kód spuštěného počítačového programu
@@ -42,6 +48,11 @@ Ke zpracování střídavého napětí dodávaného ze sítě | na ústalené, m
 - Grafická karta je součastí počítače a stará se o **zobrazení obrazu na monitoru, grafické výpočty** atd.
 - Připojena je vetšinou přes **PCI-Express slot**. *(Může být i integrována na základní desce nebo v procesoru)*
 - Většinou se jedná o nejnutnější čipy, výjimečně se přidává vlastní paměť.
+- Grafiky bez vlastní paměti se přestaly prodávat, dříve něž jsem se narodil.
+- Jediné místo, kde to člověk dnes uvidí je v mobilní GPU *(laptopy a notebooky)*, kde se sdílí RAM s GPU
+- Narozdíl od CPU, které je určené pro zpracování všeobecných instrukcí GPU je vyrobeno pro zpracování paralerních pracovních náležitostí, což veed k špatné efektivitě všeobecných výpočtů.
+- CUDA *(Compute Unified Device Architecture)*
+  * **hardwarová a softwarová architektura**, která umožňuje na **vybraných GPU (NVIDIA)** spouštět programy napsané v jazycích C/C++, Fortran nebo programy postavené na technologiích OpenCL, DirectCompute a jiných
 
 ### Paměť (RAM)
 - RAM *(Random-Access memory, pamět s přímým přístupem)* je typ **elektronické paměti**, která umožňuje přístup k **libovolné části** v konstatním ščase bez ohledu na její fyzické umístění.
