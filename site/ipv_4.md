@@ -1,6 +1,6 @@
 # IPv4, subsíťování, supersíťování
-IP adresa
-je to jedinečná adresa počítače v síti. S IP adresou se pracuje na 3 vrstvě modelu ISO/OSI a účastní se procesu směrování (routing)
+ - IP adresa
+   - to jedinečná adresa počítače v síti. S IP adresou se pracuje na 3 vrstvě modelu ISO/OSI a účastní se procesu směrování (routing)
 IP adresa je rozdělena na dvě základní části
 •	adresa sítě
 •	adresa zařízení
