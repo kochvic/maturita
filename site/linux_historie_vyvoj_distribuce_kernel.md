@@ -10,6 +10,7 @@
       * *Ale Admin tehdějšího FTP serveru neměl jméno v oblivě a bez otázek a oznámení to přejmenoval na "Linux"*
       * Nejdříve vyšel s proprientální licencí s limitací na komerční použití
 - V roce **1992** to bylo vydané pod GPL licencí
+  * Potom co GNU projekt byl v použitelné podobě, tak **potřeboval Kernel**. V tu chvilku přichází **Linus Torvalds**, se svým školním projektem "Linux"
   * A z toho vznikl celý systém dnes známý jako "GNU/Linux"
   * A od této doby začali vznikat první distribuce
       * *Slackware, Yggdrasil*
