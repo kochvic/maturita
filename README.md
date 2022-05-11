@@ -90,7 +90,7 @@ Jednoduché repo pro moje kamarády a spolužáky se všemi mými podklady k mat
   9. [GNU/Linux - instalace a správa aplikací, balíčkovací systémy, konfigurace síťového rozhraní](site/linux_instalace_sys_conf_roz.md)<br>
   10. [Bezpečnost — malware, firewall, certifikáty, šifrování](site/bezpecnost.md)<br>
   11. [Počítačové sítě - základní pojmy a topologie](site/site_zakl.md)<br>
-  12. Počítačové sítě - pasivní a aktivní prvky sítě<br>
+  12. [Počítačové sítě - pasivní a aktivní prvky sítě](site/site_pas_ak_prv.md)<br>
   13. Počítačové sítě - síťové standardy<br>
   14. Počítačové sítě - vrstvový model a architektura<br>
   15. IPv4, subsíťování, supersíťování<br>
