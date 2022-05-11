@@ -1,7 +1,7 @@
 # Stařec a moře
 ## Ernest Hemingway
- ### Děj 
-   Manolin chodí pomáhat Santiagovi s lovením ryb. Starci se však již delší dobu nedaří, a proto pošlou rodiče Manolina učit se k jinému rybáři do vedlejší vesnice. Santiago vyráží tedy na moře sám a všem dokázat, že dokáže chytit rybu. Tentokrát má štěstí, ale není to zadarmo. Ryba je obrovská a on musí pomalu bojovat o svůj holý život. Na rybu zaútočí žraloci a Santiagovi se nepodaří ji zachránit. Do vesnice se tak vrací s rybí kostrou. I tak si však získává u vesničanů zpět respekt a obdiv. 
+ ### Děj
+   Manolin chodí pomáhat Santiagovi s lovením ryb. Starci se však již delší dobu nedaří, a proto pošlou rodiče Manolina učit se k jinému rybáři do vedlejší vesnice. Santiago vyráží tedy na moře sám a všem dokázat, že dokáže chytit rybu. Tentokrát má štěstí, ale není to zadarmo. Ryba je obrovská a on musí pomalu bojovat o svůj holý život. Na rybu zaútočí žraloci a Santiagovi se nepodaří ji zachránit. Do vesnice se tak vrací s rybí kostrou. I tak si však získává u vesničanů zpět respekt a obdiv.
 ### Téma a motiv
     Boj starce s rybou
     Život chudých kubánských rybářŮ
@@ -10,6 +10,7 @@
 ### Časoprostor
     Kubánská vesnice poblíž Havany, pravděpodobně 40. léta 20. století
 ### Kompoziční výstavba
+    Členěno na odstavce
     Chronologicky
     Retrospektivní pasáže (při vzpomínaní)
 ### Literární druh a žánr
@@ -44,7 +45,7 @@
 ### Typy promluv
     pásmo vyprávěče
 ### Veršová výstavba
-    
+
 ### Jazykové prostředky
     slová spisovná
     Přechodníky (tvar slovesa vyjadřující současně probíhající nebo navazující děje)
@@ -53,16 +54,15 @@
     Personifikace (obrazné pojmenovaní, termín více výrazů)
 ### Kontext autorovy tvorba
     Ernest Hemingway (1899 - 1961)
-    Hemingway začínal jako žurnalista. 
+    Hemingway začínal jako žurnalista.
     Napsal například autobiografický román ze svých válečných zkušeností s názvem Sbohem, armádo!, soubor povídek Za našich časů anebo dílo, které vycházelo z jeho záliby v lovení africké zvěře, s názvem Zelené pahorky africké.
-    Jeho vrcholným dílem je román Komu zvoní hrana z roku 1940. 
+    Jeho vrcholným dílem je román Komu zvoní hrana z roku 1940.
 ### Literární / obecně kulturní kontex
     Americký autor byl příslušníkem takzvané ztracené generace.
     Nejznámější členové ztracené generace
       Ernest Hemingway (Stařec a moře)
       Francis Scott Fitzgerald (Velký Gatsby)
-      John Steinbeck (O myších a lidech) 
+      John Steinbeck (O myších a lidech)
     Dílo vzniklo ve druhé polovině 20. století a Hemingway za něj obdržel Nobelovu cenu.
-    Myšlení prozaiků a básníků této skupiny bylo ovlivněno zážitkem z 1. světové války, pocitem neschopnosti zařadit se zpět do obyčejného života. 
-    Základní téma literárních děl této generace je skepse, zklamání, rozpad lidských a sociálních hodnot a hledání východiska v útěku do přírody nebo kultury. Hlavními hrdiny bývají lidé ztracení v labyrintu světa, obvykle rozvrácené, silně citově založené osoby, které nemohou najít pevný bod ve svém životě. 
-    
+    Myšlení prozaiků a básníků této skupiny bylo ovlivněno zážitkem z 1. světové války, pocitem neschopnosti zařadit se zpět do obyčejného života.
+    Základní téma literárních děl této generace je skepse, zklamání, rozpad lidských a sociálních hodnot a hledání východiska v útěku do přírody nebo kultury. Hlavními hrdiny bývají lidé ztracení v labyrintu světa, obvykle rozvrácené, silně citově založené osoby, které nemohou najít pevný bod ve svém životě.
