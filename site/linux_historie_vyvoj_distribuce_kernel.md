@@ -67,7 +67,7 @@ Jammy Jellyfish)*
         * Ale stejnak je nejvíce populární distribuce   
 
 ### Redhat
-  - V roce **1994, Mark Ewing a Bob Young ** vytváří distribuci Redhat
+  - V roce **1994, Mark Ewing a Bob Young** vytváří distribuci Redhat
   - Redhat je známý hodně pro svojí bezpěčnost a spolehlivost
   - Redhat se stará o open-source operační systém
     * Ale vydělavají na
