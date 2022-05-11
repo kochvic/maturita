@@ -107,18 +107,18 @@ Jednoduché repo pro moje kamarády a spolužáky se všemi mými podklady k mat
 
 
 ## Témata k ústní maturitní zkoušce Programování a vývoj aplikací
-    1. [Definice algoritmů, formy zápisu, asymptotická složitost](prg\prg\Definice algoritmů, formy zápisu, asymptotická složitost.md)<br>
-    2. [Druhy programovacích jazyků, syntaxe, sémantika, zdrojový kód, kompilátor](prg\Druhy programovacích jazyků, syntaxe, sémantika, zdrojový kód, kompilátor.md)<br>
-    3. [Základní datové typy, deklarace, inicializace, přiřazení, operátor sizeof, mat. operace](prg\☺Datové typy, deklarace, inicializace, přiřazení, operátor sizeof, mat. operace.md)<br>
-    4. [Podmíněné příkazy](prg\Podmíněné příkazy.md)<br>
-    5. [Cykly](prg\Cykly.md)<br>
-    6. [Složené datové typy (pole, struktura)](prg\Složené datové typy - pole, struktura.md)<br>
-    7. [Funkce, předávání parametrů](prg\Funkce, předávání parametrů.md)<br>
-    8. [Ukazatele a dynamická alokace paměti](prg\Ukazatele.md)<br>
+    1. Definice algoritmů, formy zápisu, asymptotická složitost<br>
+    2. Druhy programovacích jazyků, syntaxe, sémantika, zdrojový kód, kompilátor<br>
+    3. Základní datové typy, deklarace, inicializace, přiřazení, operátor sizeof, mat. operace<br>
+    4. Podmíněné příkazy<br>
+    5. Cykly<br>
+    6. Složené datové typy (pole, struktura))<br>
+    7. Funkce, předávání parametrů<br>
+    8. Ukazatele a dynamická alokace paměti<br>
     9. Embedded systémy a Arduino<br>
-    10. OOP - třída, objekt a programovací jazyk](prg\Základní pojmy OOP, jazyk Java.md)<br>
-    11. Vlastnosti OOP — dědičnost a polymorfismus](prg\OOP - dědičnost, polymorfismus.md)<br>
-    12. Definice tříd (instanční a statické datové členy, metody, zapouzdření, konstruktory)](prg/)<br>
+    10. OOP - třída, objekt a programovací jazyk<br>
+    11. Vlastnosti OOP — dědičnost a polymorfismus<br>
+    12. Definice tříd (instanční a statické datové členy, metody, zapouzdření, konstruktory)<br>
     13. Kolekce v jazyce JAVA<br>
     14. Tvorba GUI- principy JavaFX<br>
     15. Správci rozložení (FlowPane, GridPane, VBox, aj.)<br>
