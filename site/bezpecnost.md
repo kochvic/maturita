@@ -8,76 +8,46 @@ Hrozby
     Poškození HW nebo SW
     Ovlivnění třetí stranou
 
-||  Odcizení identity| Odcizení finančního charakteru | Odcizení dat |
-|-|--|--|--|
+||  Odcizení identity|
+|-|--|
 ||Zpřístupnění druhé osobě své elektronické ID. (Hesla, čipy, USB key, NFC)|Prostě odcizení finančního charakteru|Zvýšení bezpečnosti dat má většinou za následek snížení dostupnosti. |
 |**Hrozby**|Škodlivý software v PC **(keylogger)**, **Brutal Force attack** / slovníkové útoky, **Phishing** (stránka vypadá jako známá stránka banky)
 |**Řešení**| **Bezpečné heslo** (1 heslo na 1 službu, password manager), **Dvoufázové ověření**, Zjistit na jaké stránky se loguji **(HTTPS)**, Zavčasu hlásit ztrátu, **Šifrování komunikace** (WEB error, WPA, HTTPS, SSH)  
 
+|| Odcizení finančního charakteru |
+|-|--|
+|**Hrozby**|Phishing, Spam, Vydírání (privátní data), Ransomware (zakriptuje data a chce úplatek)|
+|**Řešení**| Zjistit s kým komunikujete, Šifrování|
 
-Odcizení identity
-Zpřístupnění druhé osobě své elektronické ID. (Hesla, čipy, USB key, NFC)
-Hrozby:
-    Škodlivý software v PC (keylogger)
-    Brutal Force attack / slovníkové útoky
-    Phishing (stránka vypadá jako známá stránka banky)
-Řešení
-    Bezpečné heslo (1 heslo na 1 službu) - password manager  
-    Dvoufázové ověření (více)
-    Zjistit na jaké stránky se loguji (HTTPS)
-    Zavčasu hlásit ztrátu
-    Šifrování komunikace (WEB error, WPA, HTTPS, SSH)  
+|| Odcizení dat |
+|-|--|
+||Zvýšení bezpečnosti dat má většinou za následek snížení dostupnosti. |
+|**Řešení**|     Heslování, šífrování |   
 
+### Využívaní HW prostředků
+Výkon Vašeho PC *(bot)* se podílí na nekalých praktikách - **DDOS útoky** *(zahlcení služby)*. **Botnety** - armáda PC pod cizí nadvládou. Za účelem těžby **kryptoměny**.
 
-Odcizení finančního charakteru
-Hrozby:
-    Phishing
-    Spam
-    Vydírání (privátní data)
-    Ransomware (zakriptuje data a chce úplatek)
-Řešení
-    Zjistit s kým komunikujete  
-    Šifrování
-Odcizení dat
-Zvýšení bezpečnosti dat má většinou za následek snížení dostupnosti.
-Řešení
-    Heslování, šífrování
-Využívání HW prostředků
+- Řešení z hlediska toho nestát se botem
+  -  Mít základní pravidla práce na PC (vědět s jakými daty pracujete) pozor na vydavatele softwaru
+  -  UAC, nebýt jako admin
+  -  Antivirus
 
-Výkon Vašeho PC (bot) se podílí na nekalých praktikách - DDOS útoky (zahlcení služby). Botnety - armáda PC pod cizí nadvládou. Za účelem těžby kryptoměny.
+- Řešení z hlediska DDOS
+  -  Dobrou konfigurací firewall
+  -  **HoneyPot** *(vystupujete na Internetu pod 2 veřejnými IP. Z jedna IP je vyhrazená na komunikaci a druhá je tzv. Honeypot - návnada pro roboty - úpravě firewallových pravidel a dodatečné ochraně veřejných IP adres) (reputace IP)*
 
-Řešení z hlediska toho nestát se botem
-
-    Mít základní pravidla práce na PC (vědět s jakými daty pracujete) pozor na vydavatele softwaru
-
-    UAC, nebýt jako admin
-
-    Antivirus
-
-Řešení z hlediska DDOS
-
-    Dobrou konfigurací firewall
-
-    HoneyPot (vystupujete na Internetu pod 2 veřejnými IP. Z jedna IP je vyhrazená na komunikaci a druhá je tzv. Honeypot - návnada pro roboty - úpravě firewallových pravidel a dodatečné ochraně veřejných IP adres) (reputace IP)
-
-
-
-Narušování dostupnosti k datům (ransomware)
-
-Zašifrování uživatelských dat typu .docx .pdf .jpg (binární soubory většinou bývají nedotknuty = systém běží) je požadováno výkupné za vaše data. Hackerský kodex vyžaduje, aby po zaplacení byla data zpřístupněna.
+- Narušování dostupnosti k datům (ransomware)
+  - **Zašifrování uživatelských dat typu .docx .pdf .jpg** (binární soubory většinou bývají nedotknuty = systém běží) je požadováno výkupné za vaše data. Hackerský kodex vyžaduje, aby po zaplacení byla data zpřístupněna.
 
 Rizika:
 
     Přílohy v emailu
-
     Data na flashce
-
     Obecně soubory se škodlivým kódem
 
 Ochrana:
 
     Kvalitní záloha dat
-
     Segmentace počítačové sítě
 
 
@@ -122,7 +92,7 @@ Ochrana:
 
 Ovlivnění třetí stranou
 
-Ovlivňování dotyčného po psychické stránce, po stránce celosvětového názoru, po stránce jeho potřeb aj. (Spyware)
+     Ovlivňování dotyčného po psychické stránce, po stránce celosvětového názoru, po stránce jeho potřeb aj. (Spyware)
 
 Rizika:
 
