@@ -3,12 +3,11 @@
 ## Historie
 - V roce **1983**, **Rochard Stallman** zakládá **GNU projekt**
   * U kterého bylo cílem udělat **"Volný UNIX"**
-- V roce **1991**, vzniklo spojení mezi **GNU projektem a Linuxem**
-  * Potom co GNU projekt byl v použitelné podobě, tak **potřeboval Kernel**. V tu chvilku přichází **Linus Torvalds**, se svým školním projektem "Linux"
-      * Jeho cílem bylo vytvořit Open source systému Minix
-        * *Minix byl založen na UNIXu*
-      * Originálně mě se měl jmenovat "Freax"
-        * *Ale Admin tehdějšího FTP serveru neměl jméno v oblivě a bez otázek a oznámení to přejmenoval na "Linux"*
+- V roce **1991**, vzniká  **"Linux"**
+   * Jeho cílem bylo vytvořit Open source systému Minix
+      * *Minix byl založen na UNIXu*
+  * Originálně mě se měl jmenovat "Freax"
+      * *Ale Admin tehdějšího FTP serveru neměl jméno v oblivě a bez otázek a oznámení to přejmenoval na "Linux"*
       * Nejdříve vyšel s proprientální licencí s limitací na komerční použití
 - V roce **1992** to bylo vydané pod GPL licencí
   * A z toho vznikl celý systém dnes známý jako "GNU/Linux"
@@ -46,7 +45,7 @@ Dneska je více jak 1000 distribucí, která jsou všechny vytvořené pro různ
   - Dneska je Debian velmi populární distribuce a je velmi často používaná na serverech, ale dá se taky použít jako distribuce pro normalní užití
     * *Je minimalní a stabilní*
   - Nejznámější "dítě" Debianu je **Ubuntu**
-      * Ubuntu mělo první release v rocek **2004**
+      * Ubuntu mělo první release v roce **2004**
       * O Ubuntu se stará britská společnosti **Canonical**
       * Má "semi-annual" release
         * *jednou za 6 měsíců nebo dvakrát do roka*
