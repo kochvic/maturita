@@ -98,7 +98,7 @@ Jednoduché repo pro moje kamarády a spolužáky se všemi mými podklady k mat
   17. [DHCP](site/dhcp.md)<br>
   18. [DNS](site/dns.md)<br>
   19. [Serverové služby (AD/LDAP, webový server, SOL server)](site/server_sluzby.md)<br>
-  20. Jazyk HTML - vývoj, možnosti, prohlížeče, typy souborů<br>
+  20. [Jazyk HTML - vývoj, možnosti, prohlížeče, typy souborů](site/html_vyvoj.md)<br>
   21. Jazyk HTML - přehled elementů a jejich atributů, rozbor na příkladech<br>
   22. Optimalizace www stránek — hlavní pravidla<br>
   23. Kaskádové styly - připojení k souborům, vlastnosti CSS, rozbor na příkladech<br>
