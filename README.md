@@ -85,7 +85,7 @@ Jednoduché repo pro moje kamarády a spolužáky se všemi mými podklady k mat
   4. [Teorie OS - funkce OS, typy OS](site/teorie_funkce_typy_os.md)<br>
   5. [Druhy softwaru a typy dat, ztrátová a beztrátová komprese](site/druhy_softwaru_a_typy_dat_ztrátova_a_beztratova_komprese.md)<br>
   6. [MS Windows - správa uživatelů, ACL a pracovní skupina](site/ms_windows_sprava_uživatelu_acl_a_pracovni_skupina.md)<br>
-  7. GNU/Linux - historie, vývoj, distribuce, kernel<br>
+  7. [GNU/Linux - historie, vývoj, distribuce, kernel](site/linux_historie_vyvoj_distribuce_kernel.md)<br>
   8. GNU/Linux - správa uživatelů, procesů a nastavování oprávnění k souborům a složkám<br>
   9. GNU/Linux - instalace a správa aplikací, balíčkovací systémy, konfigurace síťového rozhraní<br>
   10. Bezpečnost — malware, firewall, certifikáty, šifrování<br>
