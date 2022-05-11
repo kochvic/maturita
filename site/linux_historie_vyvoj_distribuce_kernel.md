@@ -30,7 +30,7 @@ Co je to Linuxová distrubuce?
       * Cinnamon
       * MATE
 
-Dneska je více jak 1000 distribucí, která jsou všechny vytvořené pro různé prostředí *(Enterprise vs Normalní použití)*
+Dneska je více jak 1000 distribucí, která jsou všechny vytvořené pro různé prostředí *(Podnikové vs Normalní použití)*
 - Rozdělení
   - Server
   - Desktop
