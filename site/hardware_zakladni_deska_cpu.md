@@ -75,6 +75,10 @@ Ke zpracování střídavého napětí dodávaného ze sítě | na ústalené, m
 - Základní deska (motherboard, mainboard) je **základním hardware počítačů**
 - Hlavním účelem je **propojit jednotlivé součástky počítače do fungujícího celku a poskytnout jim elektrické napájení**
 - Postupem času se funkce základní desky rozšírovala v tom, že sama začínala **obsahovat** některé **součástky počítače**, které se do ní dříve musely zapojovat zvlášť.
+- BIOS *(Basic Input-Output System)*
+  * Představuje firmware pr osobní počítače
+  * Až do příchodu Windows 8 se BIOS používal při startu počítače pro inicializaci a konfiguraci připojených hardwarových zařízení a následnému spuštění operačního systému, kterému je pak předáno další řízení počítače
+  * V novějších počítačích *(zhruba od druhé dekády 21. století)* je postupně nahrazován systémem UEFI. 
 
 ### CD/DVD/BD mechanika
 - V součastné době jsou **CD, DVD A BD** mechaniky pro počítač volitelná komponenta, bet které jste schopni počítač používat
