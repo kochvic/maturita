@@ -1,6 +1,6 @@
 # GNU/Linux - historie, vývoj, distribuce, kernel
 
-## Historie
+## Historie, Vývoj
 - V roce **1983**, **Rochard Stallman** zakládá **GNU projekt**
   * U kterého bylo cílem udělat **"Volný UNIX"**
 - V roce **1991**, vzniká  **"Linux"**
@@ -15,14 +15,12 @@
   * A od této doby začali vznikat první distribuce
       * *Slackware, Yggdrasil*
 
-## Vývoj
-
 ## Distribuce
 Co je to Linuxová distrubuce?
-  - Distribuce je kompletní operační systém, který je založen na Linuxovém kernelu
-  - Která obsahu
+  - **Linuxová distribuce** je operační systém vytvořený z softwarove kolekce zahrnujici Linuxový kernel a téměř vždy systém pro správu balíčků.
     * Linuxový kernel
     * Balíčky *(GNU)*
+      * Jesliže Linuxová distribuce využívá GNU nástroje nazýváme ji **"GNU/Linux."**
     * Správce balíčku *(Package manager)*
     * Desktop UI
       * GNOME
@@ -30,12 +28,18 @@ Co je to Linuxová distrubuce?
       * Cinnamon
       * MATE
 
-Dneska je více jak 1000 distribucí, která jsou všechny vytvořené pro různé prostředí *(Podnikové vs Normalní použití)*
-- Rozdělení
-  - Server
-  - Desktop
-  - Mobile
-  - Embedded device
+- Díky širokým možností úprav je možné vytvořit Linuxovou distribuci pro každé použití
+  * *(embedded zařízení, přes automobily, telefony, rakoteplany i servery a desktop)*
+- V enterprise *(podnikové)* prostředí existují 3 hlavní hráči:
+    * Red Hat
+    * SUSE
+    * Oracle
+- Desktopové prostředí je pro nižší nároky jednodušší
+    * Arch Linux
+    * Ubuntu
+    * Debian
+    * OpenSUSE
+    * Mate
 
 ### Debian
   - Debian byl vytvořen v roce **1993**, **Ian Mrdock**em
@@ -43,8 +47,6 @@ Dneska je více jak 1000 distribucí, která jsou všechny vytvořené pro různ
   - První release byl v roce **1996** a měla code name "Buzz"
     * A od té doby každý release má code name z filmu *Toy Story*
   - V roce **1998** vzníka **apt *(advanced packge tool)***, *ale bylo to vyvíjeno pod jménem "Deity"*
-  - Dneska je Debian velmi populární distribuce a je velmi často používaná na serverech, ale dá se taky použít jako distribuce pro normalní užití
-    * *Je minimalní a stabilní*
   - Nejznámější "dítě" Debianu je **Ubuntu**
       * Ubuntu mělo první release v roce **2004**
       * O Ubuntu se stará britská společnosti **Canonical**
@@ -53,33 +55,38 @@ Dneska je více jak 1000 distribucí, která jsou všechny vytvořené pro různ
       * Release jsou pojmenová podle zvířát + slovo se stejným písmenem *(
 Jammy Jellyfish)*
       * Ubuntu bylo první distribuce, která napomohla GNU/Linux přiblížit k standartnímu uživately
-      * Poslední dobou je kontrovezní
+      * Ubuntu provází svým životem spoustu kontrovezní
         * *Kvůli vydaní closed source softwaru*
         * *Samotný Richard Stallman říká, že Ubuntu je spyware*
-        * Ale stejnak je nejvíce populární distribuce
-      * Má hodně "verzí"
-        * Kubuntu
-        * Xubuntu
-        * Zubuntu
-        * Lubuntu
-          * Tyto distribuce jsou velmi podobné Ubuntu ale liší se jen v GUI
+        * *Nepodpora jiného DE než GNOME*
+          * Proto vznikly různé "verze" Ubuntu
+              * Kubuntu
+              * Xubuntu
+              * Zubuntu
+              * Lubuntu
+        * Ale stejnak je nejvíce populární distribuce   
 
 ### Redhat
-  - V roce **1994, Mark Ewing** vytváří distribuci Redhat
+  - V roce **1994, Mark Ewing a Bob Young ** vytváří distribuci Redhat
   - Redhat je známý hodně pro svojí bezpěčnost a spolehlivost
   - Redhat se stará o open-source operační systém
     * Ale vydělavají na
-      * Konzultacích o integrovaní
-      * A přídavnými službami pro velké klienty
+      * Předplatném pro své klienty
+        * Což zahrnuje Red Hat support, diagnostiku atd.
   - Dneska má zisky v řádech millonů
-  - Nedávno byla získaná společností IBM *(International Business Machines Corporation)*
+  - Před třemi lety byla získaná společností IBM *(International Business Machines Corporation)*
   - Redhat pomohl k výtvoru hodně distribucí k podnikové práci
     * RHEL
     * CentOS
     * Fedora
       * Velmi dobře funguje i jako Desktop
       * A Fedoru používá Linus Torvalds
-  - Používá RPM nebo YUM jako správce balíčků
+  - Používá **RPM** *(Rapid Package Manager/RPM Package Manager)* nebo **YUM** *(Yellowdog Updater, Modified)* jako správce balíčků
+    |Debian|Redhat|
+    |--|--|
+    | dpkg| rpm|
+    | yum | apt|
+    | dnf| aptitude cli|
 
 ### Arch Linux, Gentoo
   - Originální myšlenka byla zamířena na jednoduchost, výkon a minimalistiku
