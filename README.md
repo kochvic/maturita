@@ -92,7 +92,7 @@ Jednoduché repo pro moje kamarády a spolužáky se všemi mými podklady k mat
   11. [Počítačové sítě - základní pojmy a topologie](site/site_zakl.md)<br>
   12. [Počítačové sítě - pasivní a aktivní prvky sítě](site/site_pas_ak_prv.md)<br>
   13. [Počítačové sítě - síťové standardy](site/site_standart.md)<br>
-  14. Počítačové sítě - vrstvový model a architektura<br>
+  14. [Počítačové sítě - vrstvový model a architektura](site/site_mode_archi.md)<br>
   15. IPv4, subsíťování, supersíťování<br>
   16. Bezdrátové sítě (pásma, standardy, BSS, SSID, WPS, zabezpečení)<br>
   17. DHCP<br>
