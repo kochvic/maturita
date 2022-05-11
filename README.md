@@ -84,7 +84,7 @@ Jednoduché repo pro moje kamarády a spolužáky se všemi mými podklady k mat
   3. [Hardware - stavba PC, periferní zařízení](site/hardware_stavba_pc_periferni_zarizeni.md)<br>
   4. [Teorie OS - funkce OS, typy OS](site/teorie_funkce_typy_os.md)<br>
   5. [Druhy softwaru a typy dat, ztrátová a beztrátová komprese](site/druhy_softwaru_a_typy_dat_ztrátova_a_beztratova_komprese.md)<br>
-  6. MS Windows - správa uživatelů, ACL a pracovní skupina<br>
+  6. [MS Windows - správa uživatelů, ACL a pracovní skupina](site/ms_windows_sprava_uživatelu_acl_a_pracovni_skupina.md)<br>
   7. GNU/Linux - historie, vývoj, distribuce, kernel<br>
   8. GNU/Linux - správa uživatelů, procesů a nastavování oprávnění k souborům a složkám<br>
   9. GNU/Linux - instalace a správa aplikací, balíčkovací systémy, konfigurace síťového rozhraní<br>
