@@ -10,7 +10,12 @@ Jsou to vlastně všechny fyzický komponenty do počítače.
     V různých zemích jsou různé rozpětí Vatů.
           1. v Americe, Japonsku a Taiwanu jsou 100-127V/50hz
           2. Ve zbytku světa 230V/50hz
-Některé zdroje mají přepínač pro změnu vstupní napětí mezi **230V** a **115V**, ostatní se automaticky přizpůsobí jakémukoliv napětí v tomto rozsahu
+Některé zdroje mají přepínač pro změnu vstupní napětí mezi **230V** a **115V**, ostatní se automaticky přizpůsobí jakémukoliv napětí v tomto rozsahu\
+Ke zpracování střídavého napětí dodávaného ze sítě | na ústalené, malé, stejnosměrné napětí\
+3 napajeci vetve *(+3,3V, 5V, 12 V)*   
+  - Servery *(skutečné servery, ne doma postavené)* jedou jen na 12V, menší napětí se mění na desce *(kvůli účinnosti)*
+
+
 ### Počítačová skříň (Case)
 - Skříň je důležitá abychom jsme měli kam to dát, mít to naskádané na sobě vedle monitoru to není úplně idealní. *(ale nějací fanatici to dělají)*
 - Základem je plocha pro uložení **základní desky** patřičného rozměru.
