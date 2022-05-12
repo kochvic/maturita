@@ -75,9 +75,10 @@ Syntaxe: (Java)
     System.out.println(cislo);
     }
 
-Struktura
+**Struktura**
 Heterogení složený datový typ
 Obdoba objektu v OOP
+
 Syntaxe:
 
     struct identifikator{
