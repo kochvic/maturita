@@ -1,105 +1,117 @@
 # Bezdrátové sítě (pásma, standardy, BSS, SSID, WPS, zabezpečení)
-**Bezdrátová síť**
 
-propojení zařízení za účelem komunikace bez přítomnosti fyzického vedení od zdroje k přijímači a naopak
+## WIFI
 
-**Bezdrátová síť ≠ WiFi**
+- standard IEEE 802.11
+- bezlicenční pásmo
+  - 2,4 GHz
+  - 5 GHz
+  - spravuje český telekomunikační úřad
+- maximální výkon 100mW
 
-Bezdrátové sítě se řadí IrDA, bluetooth, aj.
+## Zabezpečení
 
-**WiFi není nic jiného než obchodní značka.**
+- změna defaultního login a hesla k nastavení AP
+- skrytí SSID
+- vypnutí služby DHCP
+  - protokol
+  - přidělování IP adres, maska, brána, DNS klientům
+- MAC adresy klientů
+- šifrované přihlášení a přenos dat
+- vhodně volit polohu AP
 
-Co vedlo k rozšíření WiFi - došlo k uvolnění dvou pásem **2.4GHz a 5GHz**
+## Připojení
 
-Standardy
-- **IEEE802.11a**
-  - rok 1999, 2.4GHz, přenosové rychlosti 11Mb/s, modulační mechanismus DSSS
-- **IEEE802.11b**
-  - rok 1999, 5GHz, přenosová rychlost 54Mb/s, OFDM
-- **IEEE802.11g**
-  - rok 2003, 2.4GHz, přenosová rychlost 54Mb/s, OFDM
-- **IEEE802.11n**
-  - rok 2009, 2.4/5GHz, přenosová rychlost až 600Mb/s, MIMO
-- **IEEE802.11ac**
-  - rok 2014, 5GHz, přenosová rychlost až 7Gb/s (8 antén, sdílené kanály, MU-MIMO)
-- **IEEE802.11ax**
-  - rok 2019, 2.4/5/6GHz, přenosová rychlost 10Gb/s
-- **IEEE802.11ah**(900MHz), **IEEE802.11p**(5.9GHz), **IEEE802.11ad**(60GHz)
+- browser, login, passw
+- nastavit LAN - DHCP
+- nastavit WAN podle info od providera
+- kontrola ping
+  - LAN
+  - gate WAN
+  - IPA
+- DNS
 
-**Kanály:**
-Na frekvenci 2.4GHz
-![](Aspose.Words.34b903bf-a74e-4c5b-8af5-d2c359748d1c.002.jpeg)
+## Typy
 
-Na frekvenci 5GHz
-![](Aspose.Words.34b903bf-a74e-4c5b-8af5-d2c359748d1c.003.png)
+- a - 5 GHz, 54 Mbps
+- b - 2,4 GHz, 11 Mbps
+- g - 2,4 GHz, 54 Mbps
+- **n - 2,4 GHz nebo 5 GHz, 600 Mbps**
+- ac - 2,4 GHz nebo 5 GHz, 1800 Mbps
 
-**DFS** *(dynamic frequency selection)* - automatický výběr kanálu v závislosti na území
+## Kanál
 
-**TPC** *(transmit power control)* - automatická korekce síly signálu v závislosti na území
+- wifi vysílají nebo přijímají jedním kanálem
+  - half duplex
+  - může být více samostatných antén - full duplex
+- 13 kanálů
+  - překrývají se
+- routery hledají nejméně využitý kanál
+- může se vysílat přes více kanálů
+  - maximální výkon 100 mW
 
-Typy sítí:
-- ad-hoc síť (bez AP)
-- infrastrukturní mod (s AP)
-- WDS link (repeatery)
-- WDS bridge (wifi spoje)
+## OSMA/CA
 
-AP (access point - přístupový bod)
-- (wifi router v módu AP) veškerá komunikace vede přes něj.
+- řízení vysílání
+- wifi routery si dohodnou kdy jaký bude vysílat
+- omezení překrývání signálu
+- komunikace mezi cizími routery
 
-BSS/IBSS (independent) basic service set
-- je označení pro služby v rámci jednoho AP, defakto definuje rozsah jedné wifi sítě.
+## Access point - AP
 
-DS (distribuční systém)
-- jedná se o systém jakým je AP připojen k okolní síti
+- přístupový bod k WIFI
+- klienti se k němu připojují; nekomunikují spolu přímo a nemusí se sebou být v rádiovém spojení
+- většinou jedno-účelové zařízení
+- může se jím stát i jakýkoliv počítač s bezdrátovým WIFI zařízením
 
-ESS (extender service set)
+## Ad-hoc
 
-- jedná se označení služeb v rámci několika AP, které spolu kooperují
+- dočasné síťové spojení mezi dvěma rovnocennými prvky
+- např. dva laptopy spojené pomocí WIFI bez AP
+- v podstatě první zařízení vytváří jakoby AP a řídí provoz ostatních klientů (ti však komunikují bez “hlavního” PC)
+  - pokud hlavní klient vypadne, síť se rozpadne, než se funkce AP ujme jiný klient
 
-SSID (service set ID)
+## Bridge
 
-- jméno sítě (max. 32 znaků)
-- přenáší se nešifrovaně
-- vysíláno pomocí beacon frame
-- pro ESS musí být stejné
+- do obou spárovaných AP
+  - zadáváme ethernetovou MAC adresu protějšího zařízení
+  - vznikne point-to-point WIFI spoj
+  - spoj je naprosto odolný proti pokusům o průnik
+- do takového spoje již nelze připojit další zařízení
 
-BSSID (basic service set ID)
+## MultiPoint Bridge
 
-- velikost 6Bajtů
-- uživateli skryté
-- jedinečné pro každý BSS
-- BSSID v síti s AP je MAC adresa AP
-- BSSID v ad-hoc je generováno náhodné
+- režim je podobný režimu ad-hoc
+  - všechny AP v síti - nakonfigurovány v tomto režimu
+  - musí na sebe vzájemně “vidět”
+- všechny body v síti jsou pak 100% transparentně spojeny
 
-Autentizace a ochrana sítě
+## WDS
 
-- žádná
-- hide SSID
-- rezervace MAC
-- WEB (velmi jednoduše prolomitelné)
-- PSK (prolomitelné)
-- WPS tlačítko (prolomitelné)
-- WPA klíč (prolomitelné)
-- WPA2 (těžší na prolomení, ale lze)
-- 802.1x (zatím neprolomené)
+- bezdrátové propojení 2 AP
+- všechny AP v síti - nakonfigurovány v tomto řežimu
+  - lze připojit až 6 zařízení k jednomu AP
+- NEDOSTATEK
+  - vytvoření WDS bridge - snížení rychlosti na polovinu
+  - vysoká režije spoje
+  - připojením dalších klientů - rychlost rapidně klesá
+- použitelné pro malé sítě
+  - kde nezáleží na rychlosti přenášených dat
+  - omezený počet WIFI klientů na obou AP
 
-![](Aspose.Words.34b903bf-a74e-4c5b-8af5-d2c359748d1c.004.png)
+## Šifrování
 
-#### Základní otázky pro nasazení WiFi:
+### WEP, WPA
 
-1. Jak velký prostor budeme pokrývat (kam, kolik)
-1. Kolik zařízení cca bude mít za úkol připojovat do sítě (počet AP, počet antén)
+- zastaralé
+- snadno prolomitelné
 
-**Bezdrátová síť** může být vybudována různými způsoby v závislosti na požadované funkci. Ve všech případech hraje klíčovou roli identifikátor **SSID** (Service Set Identifier), což je **řetězec až 32 ASCII znaků**, kterými se jednotlivé sítě rozlišují. SSID identifikátor je v pravidelných intervalech vysílán jako broadcast, takže všichni potenciální klienti si mohou snadno zobrazit dostupné bezdrátové sítě, ke kterým je možné se připojit
+### WPA2
 
-Aby mezi sebou mohla komunikovat zařízení různých výrobců i různých platforem, existují mezinárodní **standardy**. Jejich specifikací se zabývá institut IEEE, tyto standardy jsou publikovány pod číslem 802.11, většinou tyto **standardy definují** sítě pracující ve volném **pásmu 2,4 GHz, 5GHz**
+- používá blokovou šifru AES
 
-**WPS (Wi-Fi Protected Setup)** je označení pro standard v počítačových sítích, který umožňuje snadno zabezpečit domácí bezdrátovou síť Wi-Fi, bohužel v roce 2011 se našla chyba kde může útočník získat WPS klíč a pomocí něho obnovit WPA/WPA klíč k wifi. Proto je v dnešní době nejpoužívanější standarda WPA2
+## SSID
 
-#### Zabezpečení Wi-fi
-
-Zabezpečit wi-fi lze pomocí Skrytí SSID, (identifikátor bezdrátové sítě), což je nejjednodušší zabezpečení ale je neefektivní. Protože vysílání SSID se dá stále odposlechnout protože se přenáší v otevřené formě.
-
-Wifi lze jednoduše zabezpečit kombinací WPA2, to znamená že je povolen přístup jen určitým MAC adresám pomocí filtru. Bohužel i MAC adresa se dá odposlechnout a útočník si jí může naklonovat na svojí síťovou kartu a vydávat se tak za jakéhokoliv klienta.
-
-WPA neboli Wi-Fi Protected Access, tj. chráněný přístup (šifrovací algoritmus) k Wi-Fi WPA a WPA2 jsou bezpečnostní protokoly, které řeší problémy WEP. Pokud je použito slabé heslo, jako slovníková fráze, nebo kratší řetězec, může být WPA a WPA2(IEEE 802.11i) prolomeno. Při použití dostatečně dlouhých hesel (např. 14 náhodných písmen) nebo passphrase (např. 5 náhodně zvolených slov) je předsdílená fráze (PSK – pre-shared key) je tím pádem neprolomitelná.
+- jedinečná identifikace AP
+- AP vysílá pravidelně identifikátor - v "majákovém režimu"
+- maximálně 32 znaků
