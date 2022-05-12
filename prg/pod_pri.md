@@ -46,6 +46,6 @@ switch(proměnná){ //proměnná by měla být ordinárního typu (int, char aj.
     default: příkazN;
     }
 
-**break** - ukončuje provádění příkazu switch
+**break** - ukončuje provádění příkazu switch<br>
 **default** – se provede pokud neodpovídá žádná hodnota u case
 Není důležité zachovávat nějaké řazení v případě hodnot u case.
