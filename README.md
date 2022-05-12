@@ -109,7 +109,7 @@ Jednoduché repo pro moje kamarády a spolužáky se všemi mými podklady k mat
 ## Témata k ústní maturitní zkoušce Programování a vývoj aplikací
   1. [Definice algoritmů, formy zápisu, asymptotická složitost](prg/definice_alg.md)<br>
   2. [Druhy programovacích jazyků, syntaxe, sémantika, zdrojový kód, kompilátor](prg/druhy_prog.md)<br>
-  3. Základní datové typy, deklarace, inicializace, přiřazení, operátor sizeof, mat. operace<br>
+  3. [Základní datové typy, deklarace, inicializace, přiřazení, operátor sizeof, mat. operace](prg/zaklad.md)<br>
   4. Podmíněné příkazy<br>
   5. Cykly<br>
   6. Složené datové typy (pole, struktura))<br>
