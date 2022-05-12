@@ -111,7 +111,7 @@ Jednoduché repo pro moje kamarády a spolužáky se všemi mými podklady k mat
   2. [Druhy programovacích jazyků, syntaxe, sémantika, zdrojový kód, kompilátor](prg/druhy_prog.md)<br>
   3. [Základní datové typy, deklarace, inicializace, přiřazení, operátor sizeof, mat. operace](prg/zaklad.md)<br>
   4. [Podmíněné příkazy](prg/pod_pri.md)<br>
-  5. Cykly<br>
+  5. [Cykly](prg/cykly.md)<br>
   6. Složené datové typy (pole, struktura))<br>
   7. Funkce, předávání parametrů<br>
   8. Ukazatele a dynamická alokace paměti<br>
