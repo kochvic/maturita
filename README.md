@@ -107,27 +107,27 @@ Jednoduché repo pro moje kamarády a spolužáky se všemi mými podklady k mat
 
 
 ## Témata k ústní maturitní zkoušce Programování a vývoj aplikací
-    1. Definice algoritmů, formy zápisu, asymptotická složitost<br>
-    2. Druhy programovacích jazyků, syntaxe, sémantika, zdrojový kód, kompilátor<br>
-    3. Základní datové typy, deklarace, inicializace, přiřazení, operátor sizeof, mat. operace<br>
-    4. Podmíněné příkazy<br>
-    5. Cykly<br>
-    6. Složené datové typy (pole, struktura))<br>
-    7. Funkce, předávání parametrů<br>
-    8. Ukazatele a dynamická alokace paměti<br>
-    9. Embedded systémy a Arduino<br>
-    10. OOP - třída, objekt a programovací jazyk<br>
-    11. Vlastnosti OOP — dědičnost a polymorfismus<br>
-    12. Definice tříd (instanční a statické datové členy, metody, zapouzdření, konstruktory)<br>
-    13. Kolekce v jazyce JAVA<br>
-    14. Tvorba GUI- principy JavaFX<br>
-    15. Správci rozložení (FlowPane, GridPane, VBox, aj.)<br>
-    16. JavaFX Node — Label, Button, TogeleButton, Textfield, aj.<br>
-    17. JavaFX kontejnery (MenuBar, Menu, ContextMenu, TableView, WebView a.j.)<br>
-    18. Zpracování událostí (MouseEvent, KeyEvent, ActionEvent, WindowEvent, aj.)<br>
-    19. Výjimky<br>
-    20. Vlákna<br>
-    21. Fáze vývoje aplikace<br>
-    22. SOL - návrh tabulky, základní operace, primární klíč, cizí klíč<br>
-    23. SOL - agregační fce, spojení tabulek, poddotazy, skupiny (GROUP BY, HAVING, aj.)<br>
-    24. Skriptovací jazyk - PHP<br>
+  1. Definice algoritmů, formy zápisu, asymptotická složitost<br>
+  2. Druhy programovacích jazyků, syntaxe, sémantika, zdrojový kód, kompilátor<br>
+  3. Základní datové typy, deklarace, inicializace, přiřazení, operátor sizeof, mat. operace<br>
+  4. Podmíněné příkazy<br>
+  5. Cykly<br>
+  6. Složené datové typy (pole, struktura))<br>
+  7. Funkce, předávání parametrů<br>
+  8. Ukazatele a dynamická alokace paměti<br>
+  9. Embedded systémy a Arduino<br>
+  10. OOP - třída, objekt a programovací jazyk<br>
+  11. Vlastnosti OOP — dědičnost a polymorfismus<br>
+  12. Definice tříd (instanční a statické datové členy, metody, zapouzdření, konstruktory)<br>
+  13. Kolekce v jazyce JAVA<br>
+  14. Tvorba GUI- principy JavaFX<br>
+  15. Správci rozložení (FlowPane, GridPane, VBox, aj.)<br>
+  16. JavaFX Node — Label, Button, TogeleButton, Textfield, aj.<br>
+  17. JavaFX kontejnery (MenuBar, Menu, ContextMenu, TableView, WebView a.j.)<br>
+  18. Zpracování událostí (MouseEvent, KeyEvent, ActionEvent, WindowEvent, aj.)<br>
+  19. Výjimky<br>
+  20. Vlákna<br>
+  21. Fáze vývoje aplikace<br>
+  22. SOL - návrh tabulky, základní operace, primární klíč, cizí klíč<br>
+  23. SOL - agregační fce, spojení tabulek, poddotazy, skupiny (GROUP BY, HAVING, aj.)<br>
+  24. Skriptovací jazyk - PHP<br>
