@@ -40,3 +40,5 @@ Asymptotická složitost je nástrojem k porovnávání efektivity algoritmů. S
   5. **Kvadratická** složitost, *O(n^2)*
   6. **Exponenciální** složitost, *O (k^n)*
   7. **Faktoriální** složitost, *O(n!)*
+
+![obrazek](https://user-images.githubusercontent.com/56117532/168075341-c2c851e8-d13e-41a3-9aa4-b93a525beda7.png)
