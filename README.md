@@ -123,7 +123,7 @@ Jednoduché repo pro moje kamarády a spolužáky se všemi mými podklady k mat
   11. [Vlastnosti OOP — dědičnost a polymorfismus](prg/vlastnosti_oop.md)<br>
   12. [Definice tříd (instanční a statické datové členy, metody, zapouzdření, konstruktory)](prg/definice_trid.md)<br>
   13. [Kolekce v jazyce JAVA](prg/kolekce.md)<br>
-  14. Tvorba GUI- principy JavaFX<br>
+  14. [Tvorba GUI- principy JavaFX](prg/tvorba_gui.md)<br>
   15. Správci rozložení (FlowPane, GridPane, VBox, aj.)<br>
   16. JavaFX Node — Label, Button, TogeleButton, Textfield, aj.<br>
   17. JavaFX kontejnery (MenuBar, Menu, ContextMenu, TableView, WebView a.j.)<br>
