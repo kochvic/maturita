@@ -124,7 +124,7 @@ Jednoduché repo pro moje kamarády a spolužáky se všemi mými podklady k mat
   12. [Definice tříd (instanční a statické datové členy, metody, zapouzdření, konstruktory)](prg/definice_trid.md)<br>
   13. [Kolekce v jazyce JAVA](prg/kolekce.md)<br>
   14. [Tvorba GUI- principy JavaFX](prg/tvorba_gui.md)<br>
-  15. Správci rozložení (FlowPane, GridPane, VBox, aj.)<br>
+  15. [Správci rozložení (FlowPane, GridPane, VBox, aj.)](prg/spravci.md)<br>
   16. JavaFX Node — Label, Button, TogeleButton, Textfield, aj.<br>
   17. JavaFX kontejnery (MenuBar, Menu, ContextMenu, TableView, WebView a.j.)<br>
   18. Zpracování událostí (MouseEvent, KeyEvent, ActionEvent, WindowEvent, aj.)<br>
