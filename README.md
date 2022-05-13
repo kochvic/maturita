@@ -127,7 +127,7 @@ Jednoduché repo pro moje kamarády a spolužáky se všemi mými podklady k mat
   15. [Správci rozložení (FlowPane, GridPane, VBox, aj.)](prg/spravci.md)<br>
   16. [JavaFX Node — Label, Button, TogeleButton, Textfield, aj.](prg/javafx_node.md)<br>
   17. [JavaFX kontejnery (MenuBar, Menu, ContextMenu, TableView, WebView a.j.)](prg/javafx_kontejnery.md)<br>
-  18. Zpracování událostí (MouseEvent, KeyEvent, ActionEvent, WindowEvent, aj.)<br>
+  18. [Zpracování událostí (MouseEvent, KeyEvent, ActionEvent, WindowEvent, aj.)](prg/udalosti.md)<br>
   19. Výjimky<br>
   20. Vlákna<br>
   21. Fáze vývoje aplikace<br>
