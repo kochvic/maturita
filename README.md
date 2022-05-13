@@ -115,7 +115,7 @@ Jednoduché repo pro moje kamarády a spolužáky se všemi mými podklady k mat
   6. [Složené datové typy (pole, struktura)](prg/sloz_dat_typ.md)<br>
   7. [Funkce, předávání parametrů](prg/fce_pred_par.md)<br>
   8. [Ukazatele a dynamická alokace paměti](prg/uka_dyn_al.md)<br>
-  9. Embedded systémy a Arduino<br>
+  9. [Embedded systémy a Arduino](prg/embedded.md)<br>
   10. OOP - třída, objekt a programovací jazyk<br>
   11. Vlastnosti OOP — dědičnost a polymorfismus<br>
   12. Definice tříd (instanční a statické datové členy, metody, zapouzdření, konstruktory)<br>
