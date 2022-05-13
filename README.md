@@ -131,6 +131,6 @@ Jednoduché repo pro moje kamarády a spolužáky se všemi mými podklady k mat
   19. [Výjimky](prg/vyjimky.md)<br>
   20. [Vlákna](prg/vlakna.md)<br>
   21. [Fáze vývoje aplikace](prg/faze_vyvoje.md)<br>
-  22. SOL - návrh tabulky, základní operace, primární klíč, cizí klíč<br>
+  22. [SQL - návrh tabulky, základní operace, primární klíč, cizí klíč](prg/sql_navrh.md)<br>
   23. SOL - agregační fce, spojení tabulek, poddotazy, skupiny (GROUP BY, HAVING, aj.)<br>
   24. Skriptovací jazyk - PHP<br>
