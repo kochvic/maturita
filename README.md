@@ -122,7 +122,7 @@ Jednoduché repo pro moje kamarády a spolužáky se všemi mými podklady k mat
   10. [OOP - třída, objekt a programovací jazyk](prg/oop_tr.md)<br>
   11. [Vlastnosti OOP — dědičnost a polymorfismus](prg/vlastnosti_oop.md)<br>
   12. [Definice tříd (instanční a statické datové členy, metody, zapouzdření, konstruktory)](prg/definice_trid.md)<br>
-  13. Kolekce v jazyce JAVA<br>
+  13. [Kolekce v jazyce JAVA](prg/kolekce.md)<br>
   14. Tvorba GUI- principy JavaFX<br>
   15. Správci rozložení (FlowPane, GridPane, VBox, aj.)<br>
   16. JavaFX Node — Label, Button, TogeleButton, Textfield, aj.<br>
