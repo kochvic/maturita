@@ -129,8 +129,8 @@ Jednoduché repo pro moje kamarády a spolužáky se všemi mými podklady k mat
   17. [JavaFX kontejnery (MenuBar, Menu, ContextMenu, TableView, WebView a.j.)](prg/javafx_kontejnery.md)<br>
   18. [Zpracování událostí (MouseEvent, KeyEvent, ActionEvent, WindowEvent, aj.)](prg/udalosti.md)<br>
   19. [Výjimky](prg/vyjimky.md)<br>
-  20. Vlákna<br>
-  21. Fáze vývoje aplikace<br>
+  20. [Vlákna](prg/vlakna.md)<br>
+  21. [Fáze vývoje aplikace](prg/faze_vyvoje.md)<br>
   22. SOL - návrh tabulky, základní operace, primární klíč, cizí klíč<br>
   23. SOL - agregační fce, spojení tabulek, poddotazy, skupiny (GROUP BY, HAVING, aj.)<br>
   24. Skriptovací jazyk - PHP<br>
