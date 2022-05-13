@@ -21,6 +21,9 @@ Jednoduché repo pro moje kamarády a spolužáky se všemi mými podklady k mat
 
 ## Témata k ústní maturitní zkoušce z Českého jazyka:
 
+### Jak na rozbor!
+[ZDE](cestina/templ.md)<br>
+
 #### Světová a česká literatura do konce 18. století (min. 2 díla)
    1. [Moliére | Lakomec](cestina/lakomec.md)<br>
    2. [Lope de Vega | Ovčí pramen](cestina/ovci_pramen.md)<br>
