@@ -1,0 +1,1 @@
+# Fáze vývoje aplikace
