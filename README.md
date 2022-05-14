@@ -9,9 +9,8 @@ Jednoduché repo pro moje kamarády a spolužáky se všemi mými podklady k mat
 - [x] Kontrola gramatiky v README.md
 - [x] "Radši se zabiju než abych spáchal sebevraždu" - Lynder063, 2020
 - [ ] Naučit se tu mrdku
-- [ ] Najít si ~~GF~~ kamarádku s výhodami
-- [ ] Koupit si dům
-- [ ] Umřít
+- [x] Ztrácím pojem o realitě
+- [ ] Najít si ~~GF~~ kamarádku s výhodami (to je asi naivní sen)
 
 ## Orientační navigace
   [Český jazyk](#témata-k-ústní-maturitní-zkoušce-z-českého-jazyka)<br>
