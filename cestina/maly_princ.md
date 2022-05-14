@@ -67,8 +67,7 @@
 ### Typy promluv 
     Vnitřní monology
     Dialogy
-### Veršová výstavba
-        
+
 ### Jazykové prostředky
     Spisovný jazyk
     Zdrobněliny
