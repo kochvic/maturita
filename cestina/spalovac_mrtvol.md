@@ -1,9 +1,11 @@
 # Spalovač mrtvol
 ## Ladislav Fuks
  ### Děj
-    
+   Pan Kopfrkingl se zpočátku zdá, jako klidný a rozumný člověk, který se s pomocí východní filosofie smířil se svou prací v krematoriu a naučil se ji chápat jako službu lidské duši. Je vzorný otec rodiny, který důsledně dbá o řádný chod domácnosti a všestrannou výchovu svých dětí. I přesto, že ho smrt tak fascinuje, odsuzuje jakékoliv násilí a bojí se blížící války. Určitou izolovanost Kopfrkinglova života naruší návštěva dávného přítele, Williho Reinkeho. Tento přesvědčený nacista dá jeho životu nový směr. Jeho myšlenky o rasové nadřazenosti na něj osudově zapůsobí. Začíná udávat lidi kolem sebe, protože manželčin židovský původ mu brání v další kariéře, tak ji zavraždí. Své činy hodnotí jako pomoc nešťastníkům, kteří nechápou vyšší zájmy světa.
+
 ### Téma a motiv
     Příběh o životě pana Karla (Romana) Kopfrkingla
+    Manipulace, 2. světová válka
 ### Časoprostor
     Před 2. světovou válku
     Praha
@@ -29,7 +31,7 @@
     Přímá řeč
 ### Typy promluv
     Vnitřní monology pana Kopfrkingla
-### Veršová výstavba
+   
 ### Jazykové prostředky
     Spisovný
     Objevují se Německá slova
