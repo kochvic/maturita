@@ -14,10 +14,11 @@
     V noci, v pokoji (čas se nedá více určit)
 ### Kompoziční výstavba
     Chronologická
+    Na sloky (18)
 ### Literární druh a žánr
     Lyricko-epická báseň
 ### Vyprávěč / lyrický subjekt
-    
+    Ich-forma
 ### Postavy
     lyrický mluvčí/milenec
        - na okraji společnosti
