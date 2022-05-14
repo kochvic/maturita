@@ -3,7 +3,8 @@
  ### Děj
 Krysař přichází do německého hanzovního města Hammeln, aby vyhnal přemnožené krysy.  Za práci mu však odmítnou městští konšelé zaplatit. Brzy na to potkává krásnou mladou dívku Agnes, do které se zamiluje. Agnes jeho lásku opětuje. Jejich láska však má krátkého trvání, protože se na scénu vrací Agnesin bývalý milenec Kristián, který se jí zmocní. Agnes v záchvatu smutku skočí do propasti. Když to krysař zjistí, vezme píšťalu a začne hrát tak líbezně, až to přivábí všechny obyvatele městečka. Krysař je pak vede na vrcholek hory Koppel, kde všichni skočí do propasti. Jediný, kdo přežije, je rybář Sepp Jörgen. Zvuk píšťaly na něj přestal působit, když uslyšel brek nemluvněte. Rozhodne se tedy najít ženu, jež se stane matkou dítěte.
 ### Téma a motiv
-    Láska a pomsta, krysařův život, rybář Jorgen Sepp
+    Láska a pomsta, krysařův život,
+    Sebevražda, touha, sobectví
 ### Časoprostor
     německé město Hammeln
     doba neurčena
@@ -40,8 +41,6 @@ Krysař přichází do německého hanzovního města Hammeln, aby vyhnal přemn
     Monology
     Dialogy
     Řeničcké otázky
-### Veršová výstavba
-     
 ### Jazykové prostředky
     Spisovný jazyk
     Německé jména postav
