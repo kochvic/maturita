@@ -11,10 +11,13 @@
     Paříž, 30. 1. 1919 – Velký Pátek, 29. 3. 1918 (dva měsíce)
 ### Kompoziční výstavba
     Děj chronologický
+    Souvislé vyprávění bez kapitol
 ### Literární druh a žánr
-    Lyrická protiválečná novela
+    Druh: Epika
+    Žánr: Psychologická novela
 ### Vyprávěč / lyrický subjekt
-    
+    Jeden vypráveč
+    Er-forma
 ### Postavy
     Lucie
       - dívka z chudé rodiny
@@ -32,7 +35,7 @@
     Monolog
     Dialog
     Pásmo vyprávěče
-### Veršová výstavba
+    Přímá řeč
     
 ### Jazykové prostředky
     Spisovný jazyk
@@ -42,6 +45,8 @@
 ### Tropy a figury
     Metafora (přenášení významu původního pojmenování na jiný předmět)
     Epizeuxis (opakovaní téhož slova krátce za sebou)
+    Přirovnání
+    Personifikace
 ### Kontext autorovy tvorba
     Romain Rolland (1866-1944)
       francouzský prozaik, dramatik, esejista, hudební historik a literární kritik
