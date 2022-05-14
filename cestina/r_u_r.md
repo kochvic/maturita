@@ -9,14 +9,12 @@
     Varuje před nebezpečím vývoj techniky
     Otázky práv robotů
 ### Časoprostor
-    Neurčitá budoucnost, Russanův ostrov (ostrv na výrobu robotů)
+    Neurčitá budoucnost, Russanův ostrov (ostrov na výrobu robotů)
 ### Kompoziční výstavba
     Chronologická
     3 dějství
 ### Literární druh a žánr
     Epické drama
-### Vyprávěč / lyrický subjekt
-  
 ### Postavy
     Helena
       - Manželka Dominova
@@ -29,11 +27,8 @@
       - Chce vytvořit nové bytosti
       - Prvotní myšlenka - dobrá (ulehčit lidem od práce, zrušit otroctví)
       - Ředitel továrny
-### Vyprávěcí způsoby
-    
 ### Typy promluv
     Dialog
-### Veršová výstavba
 ### Jazykové prostředky
     Spisovný
     Scénické poznámky
