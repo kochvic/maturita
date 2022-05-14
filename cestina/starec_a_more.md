@@ -21,30 +21,29 @@
     Bez konkrétních pojmenování (např. Santiago není oslovován jménem, ale jako stařec)
 ### Postavy
     Stařec Santiago
-    - odvážný kubánský rybář s pevnou vůlí
-    - samotář
-    - bojuje až na pokraj života, aby se uživil
-    - smysl života vidí v rybaření
-    - Introvert
-    - prostý člověk
-    - žil v souladu s přirodou
-    - starý ale silný a vtrvalý
-    - vidí věci realistický
-    - vše dělá pořádně
-    - nic nevzdává předčasně
+      - odvážný kubánský rybář s pevnou vůlí
+      - samotář
+      - bojuje až na pokraj života, aby se uživil
+      - smysl života vidí v rybaření
+      - Introvert
+      - prostý člověk
+      - žil v souladu s přirodou
+      - starý ale silný a vtrvalý
+      - vidí věci realistický
+      - vše dělá pořádně
+      - nic nevzdává předčasně
     Chlapec Monolin
-    - velmi obětavý
-    - laskavý
-    - nápomocný
-    - má rad starce, pomáhá mu, jezdí s ním rybařit, obduvuje ho
-    - chce se stát nejlepším rybářem (vědět vše, znát moře, ne chytit nejvíce ryb)
+      - velmi obětavý
+      - laskavý
+      - nápomocný
+      - má rad starce, pomáhá mu, jezdí s ním rybařit, obduvuje ho
+      - chce se stát nejlepším rybářem (vědět vše, znát moře, ne chytit nejvíce ryb)
 ### Vyprávěcí způsoby
     vyprávěcí, popisný
     nevlastní přímá řeč
     vnitřní monology, dialogy, vlastní přímá řeč
 ### Typy promluv
-    pásmo vyprávěče
-### Veršová výstavba
+    Pásmo vyprávěče
 
 ### Jazykové prostředky
     slová spisovná
