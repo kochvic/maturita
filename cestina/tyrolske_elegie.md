@@ -11,6 +11,7 @@
 ### Téma a motiv
     Zesměšňovaní vlády (Bachův absolutismus) i policie a zároveň vyjádření smustku po domově a rodině
     Násilná deportace z Čech do Tyrolska (Brixen)
+    Kritika absolutiscké vlády, narážky na dobovou situaci
 ### Časoprostor
     Rakousko-Uhersko (habsburská monarchie)
     19. století, období Bachova absolutismu
@@ -24,8 +25,9 @@
 ### Literární druh a žánr
     Satirická báseň
     Lyrica
+    (lyricko-epická satirická báseň)
 ### Vyprávěč / lyrický subjekt
-    
+    Ich forma  
 ### Postavy
     Karel Havlíčkek Borovský
       - milý, dobromyslný, vstřícný, odvážný a poctivý člověk
